@@ -1,0 +1,1027 @@
+RID,age,gender,ethnicity,hispanic
+972a8469-1641-9f82-8b9d-2434e465e150,73,1,White,Not Hispanic
+17fc695a-07a0-ca6e-0822-e8f36c031199,81,1,White,Not Hispanic
+e2acf72f-9e57-4f7a-a0ee-89aed453dd32,22,1,White,Not Hispanic
+24933b83-7577-50a9-a491-f0b2ea1fca65,19,1,White,Not Hispanic
+5715bd6f-a416-1293-c4c2-e2e3444ea7c8,52,2,White,Not Hispanic
+f4188f3f-8a14-be62-295b-4715c333e861,31,1,White,Not Hispanic
+3da9c2a9-0ed4-2f1a-3d4c-bf374eb93eff,37,2,White,Not Hispanic
+edcd465e-3638-6821-f6e0-7cc06c52c49f,25,2,White,Hispanic
+b09b2a5c-badc-c32a-c159-0f538a0f4efb,33,2,White,Not Hispanic
+1064005c-3985-c3cf-3f76-be1d1efa2197,67,1,White,Not Hispanic
+dd2467ac-778e-edb3-693d-ffbc6c6fa611,34,1,"Black, or African American",Not Hispanic
+03c72ba8-d605-e770-8a63-f881ffd0f9d5,24,1,White,Not Hispanic
+37bb3eec-4bf5-0b52-309d-258c27a0c3d7,24,1,White,Not Hispanic
+14fcdd54-9e8f-c965-0a2c-827e98326856,51,1,White,Not Hispanic
+21813d25-6552-38a6-43ff-50113d1a85dd,31,1,White,Not Hispanic
+ef8c485b-c07a-30f2-edd4-253b50f0fd0a,26,1,White,Not Hispanic
+9f044aed-7552-3327-0262-7f7312922f83,25,1,White,Not Hispanic
+702cdd20-2862-18b8-48f4-ef125e9953d2,25,1,White,Not Hispanic
+ce9e1a11-fcbb-4e59-fbdd-cf7c9c96e9ec,28,1,"Black, or African American",Not Hispanic
+35ebd32d-9ad6-20ab-4821-2ddb45b89cd9,74,1,White,Not Hispanic
+0a368ce7-dc57-0131-f8e1-daa7cbceabde,55,1,White,Not Hispanic
+bc2cbb0d-dd33-4cc7-ab7f-089acd5f4822,63,2,White,Not Hispanic
+d20eac17-4e20-fd1a-5983-36e375d66ed4,34,1,White,Not Hispanic
+54c63cd8-8945-6f27-d7fa-2d8dfb2ca025,41,1,Some other race,Hispanic
+94a1875d-2db6-9edb-42de-ffccf86c2ca2,26,1,Some other race,Hispanic
+6fa17735-b572-f3d0-0b5c-ea6a41357e8c,43,1,Some other race,Hispanic
+9f871ce7-5487-fd4f-ebb7-a385aa0b7b14,19,1,Some other race,Hispanic
+5380b904-688c-7015-aab9-7e494f2d4796,51,1,White,Not Hispanic
+91b0e1d9-9d92-62af-2c8d-0e44e71e43a6,19,2,Asian,Hispanic
+e2add909-c521-bf2d-dc45-d539c03f3538,32,2,"Black, or African American",Not Hispanic
+b227462c-f53d-4330-cdda-24ba2d06e8cf,47,1,White,Not Hispanic
+8f15ba58-fce6-8504-87f8-424daae65fc1,72,1,White,Not Hispanic
+dc8aee30-be60-33f7-28be-9288e5af6e39,67,1,White,Not Hispanic
+e49d681d-51d8-7c64-55fa-1ab8458f1f19,19,1,"Black, or African American",Not Hispanic
+05000bc6-b20d-cb6e-f231-1f1795863a76,53,2,White,Not Hispanic
+45df16b6-382c-043f-7cfc-9b793875394c,20,1,White,Not Hispanic
+fb10987f-20ac-3703-eb67-146a77a6e17c,20,1,White,Not Hispanic
+07f194f9-c115-6d6d-0a4e-5b70a6d964a3,31,1,White,Not Hispanic
+d6d7b3b8-3309-4d35-3f4d-f561f319c125,42,2,"Black, or African American",Not Hispanic
+e87466d7-ad66-a1bd-9367-6a024fdc6e1b,58,1,White,Not Hispanic
+5cb85aed-f5f6-2c97-6efb-63b11b049863,24,2,Some other race,Hispanic
+75b17a55-d426-2982-e43e-4288a2b5b498,66,2,Some other race,Hispanic
+a6846099-f729-4951-8591-31d2bbda0242,70,1,White,Not Hispanic
+eb6c1016-cee6-24d0-9dac-6e8345241ea6,65,2,White,Hispanic
+c01f36bf-3e6d-d58b-7367-c28de1b294de,45,1,Some other race,Hispanic
+7cd0129d-2e8d-0e87-5334-20e6d9d80b8d,33,1,White,Not Hispanic
+be2d740a-1e9b-23bc-50c7-c006314d3441,30,2,White,Not Hispanic
+98c7472a-864e-9a13-c29c-fc0cfa02eaec,19,1,"Black, or African American",Not Hispanic
+5738811d-70c2-903f-7a8d-03aa782a65e0,33,1,White,Not Hispanic
+989bc4da-9b37-a22b-6a8a-616fc3b290d0,21,1,Some other race,Hispanic
+2812859a-1337-739e-8d4f-5d272c7f0b79,48,2,"Black, or African American",Hispanic
+d0725b5c-a281-4044-6f96-288295d82980,18,1,White,Not Hispanic
+7ed70ed7-b194-990b-6961-929e546e035a,67,2,White,Not Hispanic
+49bc473f-ed7b-f656-218a-15368c99a894,18,2,White,Not Hispanic
+74eff545-3e65-2603-78e3-654bfaf14ff0,25,1,Some other race,Hispanic
+f6febc0e-7ecd-dbaf-26f0-5fcffb16e5db,24,1,Some other race,Hispanic
+f72169bb-8096-2718-2051-acef097a1e10,43,1,White,Hispanic
+b4323070-a23d-4c2f-c2a7-96891933918c,20,1,White,Hispanic
+aee1e86b-9ea5-56aa-61ee-6c5bdeef580f,39,1,White,Hispanic
+a34db7c5-760d-ebbb-3b70-b3a124a35cf2,30,2,"Black, or African American",Not Hispanic
+4d57d880-d865-d69a-74f3-310340066ff2,58,1,White,Not Hispanic
+e726be23-e776-b886-d534-ee1d7f2984f5,31,1,"Black, or African American",Not Hispanic
+3ae909fe-cc82-18da-c696-f5e64944051b,34,1,White,Not Hispanic
+6a5e6920-bf5a-e7e6-53a3-dd5a4b8c5bdc,60,1,White,Not Hispanic
+8eac0a33-cdf9-74a7-d882-b5c1f79efd70,38,2,White,Not Hispanic
+a2a9d4d8-102e-fde5-a5cc-8bf738ab854c,19,2,White,Not Hispanic
+e2aa7a5d-278e-d00d-ba02-66efbe055787,32,2,White,Not Hispanic
+8a4b8f7c-2147-2a15-fcce-96f6250a4578,33,2,White,Not Hispanic
+e63658c9-12d0-498d-718d-4d05e8e22743,20,1,"Black, or African American",Not Hispanic
+9fd34579-4667-72ce-204e-178c10d08d11,86,1,White,Not Hispanic
+692ac139-1f4a-8ca1-ab85-fd595463adc7,30,1,"Black, or African American",Not Hispanic
+279c658a-3676-0ce5-81e5-c9f693f277cc,60,1,White,Not Hispanic
+a847bce7-90fa-6b57-24ac-2130deaf528d,34,1,"Black, or African American",Not Hispanic
+27d415b6-0d77-c5a0-e222-b6a615bfbe97,26,1,White,Not Hispanic
+0cbd3c03-9e2a-a4ac-c122-b5b3284c03d2,27,2,"Black, or African American",Not Hispanic
+372f871a-45ee-432d-6a07-f2137129cec7,44,1,Some other race,Not Hispanic
+1eb74b56-53ff-d3a2-4a19-35014169b9fc,46,1,White,Not Hispanic
+5aaab32f-ce63-22b6-ab05-347fd556b37d,18,1,"Black, or African American",Not Hispanic
+5024bdc6-dcb3-3df3-13ee-cdc6ebd14d2c,30,1,White,Not Hispanic
+4a1dab32-6aed-fdc7-a3e0-5309b5a1b949,55,1,White,Not Hispanic
+f296d9f0-cd23-72c2-2bff-e17b532401fc,27,2,White,Not Hispanic
+1422373f-8622-68d1-6683-e10796c044d0,26,1,"Black, or African American",Hispanic
+c257cf73-c29d-782b-2722-796e9a36d1ec,39,2,Asian,Not Hispanic
+9458054e-c287-4f06-9050-f7efc1235c91,43,2,White,Not Hispanic
+a9e27ba9-952e-6abb-14dd-5061555736f8,68,1,White,Not Hispanic
+17ec889c-86c1-b6cb-e996-30f7af77520e,18,1,"Black, or African American",Not Hispanic
+31274148-7c7c-404e-c422-d03ef29a6339,70,2,White,Not Hispanic
+27aa7cbc-2337-7bbc-fffe-77c839feb99c,18,1,White,Hispanic
+c9c23e69-d82c-7565-4bb9-07ec13c11754,22,1,Asian,Not Hispanic
+6b2d5b09-8707-9ad4-80be-7e3561c2645a,67,1,White,Not Hispanic
+ef2ddcc4-8df6-61da-5f07-c1a5dfc620ce,46,2,White,Not Hispanic
+e916da57-f248-23ab-177a-8a5f6ffe33b3,59,2,White,Not Hispanic
+0b251279-785a-c5d0-df92-a62163f4c69d,57,1,White,Not Hispanic
+5a304528-0b59-9562-2227-219f551ff086,44,2,Pacific Islander,Not Hispanic
+6e3c4532-1434-8f62-6cac-028cba220065,75,2,White,Hispanic
+1a43db54-523a-e993-4b34-46bc8ba435cc,22,1,White,Not Hispanic
+4baf0f5e-a932-0094-53f2-8f11147f6570,73,1,White,Not Hispanic
+b7b8c1a5-9a45-693d-7227-890e4e76833a,50,1,White,Not Hispanic
+13aec376-c359-810a-71a6-014c5f3c44dc,40,2,White,Not Hispanic
+b43bd27f-42a2-59a6-c664-12854303cbc1,33,1,Asian,Not Hispanic
+7e7838c9-ca55-e38b-3c9a-be10238d6f44,53,1,Some other race,Not Hispanic
+84a2576c-1fc9-05f8-d4d6-07350e2f8958,26,1,Prefer not to answer,Not Hispanic
+92779574-c457-6cc3-35f7-89bca6b07458,48,2,White,Not Hispanic
+8baaf744-a08d-d21b-e395-4cb17f7f6c0a,59,2,"Black, or African American",Not Hispanic
+ef0a573d-53d2-d56d-d040-158728e213bc,33,2,Asian,Hispanic
+673ba8bd-c38c-1dec-5da3-9a73ba3df7ff,63,2,White,Not Hispanic
+62e7c1a6-12d2-fa06-49e1-cd138da00495,63,1,White,Not Hispanic
+09f64405-0b99-0034-0a4e-255280051b10,18,2,White,Not Hispanic
+cdd0b4d4-5542-27de-b6ad-f48b2314d0c8,36,1,White,Not Hispanic
+901bcdef-b56f-f8ce-7d66-971e88476c56,19,1,White,Not Hispanic
+4ec3f970-956d-80e4-6aa2-6216fada98f5,42,1,White,Not Hispanic
+86341718-2ba6-adb3-7afe-b1149561c813,20,2,Some other race,Not Hispanic
+9c89d374-c664-95a7-8077-3e33690e7e62,27,1,White,Not Hispanic
+d92f3c1e-df70-fb2a-78bb-22a5eba742d2,48,1,White,Not Hispanic
+f5141058-3138-3975-7bf3-3a349c2dfa97,70,1,White,Not Hispanic
+8f7c1d59-594b-2a3a-7ad4-65a15129950d,48,2,White,Not Hispanic
+3d4196fe-963a-8617-bdab-07e79d9d028e,47,1,White,Hispanic
+0f25477d-a559-90e7-4910-fade52380bf2,28,1,"Black, or African American",Not Hispanic
+bd1a8f4b-88ff-bd40-3b72-c86d92fa675f,43,2,Some other race,Hispanic
+5e175b66-4b87-959f-f0cd-7f05ea87855e,35,1,White,Not Hispanic
+cd4f8b2b-899a-c252-c1e1-b94a78883058,22,2,White,Not Hispanic
+86879aa9-14f5-73d0-c991-2032df85c777,37,2,"Black, or African American",Not Hispanic
+ac3a812f-765e-6cb5-8f0d-55400ec7d662,31,1,White,Not Hispanic
+6c93a791-8b60-c511-b816-8aebac6a7c85,57,1,Some other race,Hispanic
+27b608dc-589d-ecb0-75eb-89c23f5cf2f3,77,1,White,Not Hispanic
+d18183d1-ac2b-0cfc-c5c5-1060991121e7,31,1,"Black, or African American",Not Hispanic
+46707cd6-4ced-a164-69df-14e9389641dd,42,2,White,Not Hispanic
+30a5648e-efe9-b3d0-3639-08bf03ece8ff,22,2,White,Not Hispanic
+ea18d32c-7a9a-8ef5-c11b-d1c4ffe3f366,25,1,White,Hispanic
+48769153-c688-13fe-5255-5c758d55119e,48,1,White,Not Hispanic
+501ba851-5ee6-8495-3400-29c3ea11905b,43,2,White,Not Hispanic
+0426fcc9-255b-30e2-bdc2-b74b38a56b49,31,1,White,Not Hispanic
+c36b9a0a-41e0-2a89-566a-9ce7af521b94,67,1,"Black, or African American",Not Hispanic
+b8e19f56-8787-ea21-0448-2a220308aa5e,35,1,Pacific Islander,Not Hispanic
+14a34f7f-d90d-d19b-d3fb-e043af1d5a1a,67,2,White,Not Hispanic
+1901ef87-0dbf-0caf-588a-3f87f96d40f8,57,1,White,Not Hispanic
+4b9dfd58-9e5d-9c7a-c5ac-c35415f00cb4,18,1,White,Hispanic
+277eb0aa-a247-541d-c8ad-0899b630794d,50,1,White,Not Hispanic
+0328c136-629e-f3d8-dd1c-a267530ddda6,59,1,White,Not Hispanic
+255bfc1c-7e3d-5ee4-44b6-4ec14d16f049,21,2,White,Hispanic
+46a56fe8-6f46-f1b1-2ace-1aa9103246b3,20,2,"Black, or African American",Not Hispanic
+a205e54f-b1e8-c09d-bc20-b9f24a9c589e,29,2,White,Hispanic
+47c1c017-6045-2909-536d-47d73e0f84ce,21,1,White,Not Hispanic
+902f3465-0b57-0720-9cd8-758ba5a1c825,38,1,White,Not Hispanic
+8ed8a80d-84cf-ee39-bf31-c29f82bbad84,24,1,White,Hispanic
+76492e64-f55d-ce6d-6d26-8b378f5242d3,19,1,Some other race,Hispanic
+5a1baf0e-5911-96dc-1d3e-503a9645f0e4,19,1,Asian,Not Hispanic
+2c2ac34b-9e0b-7b01-7536-59efd873dad9,20,2,"Black, or African American",Not Hispanic
+b5cbe3f5-6a66-c184-7de1-bf5daf4847f0,39,1,White,Not Hispanic
+7eccdaf4-c413-4dc2-c5c5-ae8abe15ad12,34,1,White,Not Hispanic
+c28fa16b-0aa6-fcb9-c1bc-be59d296a12d,55,1,White,Not Hispanic
+cfd7f3b9-c68f-cba5-1e0d-02b5fe7402cd,32,2,Some other race,Hispanic
+b28187c4-aa05-5442-a284-e8fd755cee2a,50,1,White,Not Hispanic
+16de66c9-6210-def6-3a9c-43081221cddf,56,1,White,Not Hispanic
+59e7703a-70aa-5b0d-2a03-8ad4a667b982,49,2,White,Not Hispanic
+34981735-4d38-e415-e036-35fca88d4108,63,2,White,Not Hispanic
+6307d4d1-21c9-a15d-5104-5a16ef15ab72,46,1,"Black, or African American",Not Hispanic
+c4615234-8044-beb2-b66e-dbf4a0ea0251,37,1,White,Not Hispanic
+1e38f711-e2ec-13f4-bba1-aed944cdbfdd,39,2,White,Not Hispanic
+55c34853-0783-e43c-e65f-ad87c57c7498,41,1,White,Hispanic
+c6a07656-c5c9-fb91-ff6e-f9ed7e4ce29f,20,1,White,Not Hispanic
+a995ecc3-6f5b-09a6-0ff1-c51f915cb31b,19,1,"Black, or African American",Not Hispanic
+cebeabaa-2859-7b34-1725-d2c71eb2a7b8,44,1,White,Not Hispanic
+0c880714-8372-17e0-6570-46ea5b11f51f,58,2,White,Not Hispanic
+f3bc9a71-07f4-fee5-2c82-989ffd9cfbb0,45,1,White,Not Hispanic
+0cf697a5-7603-c36c-f139-4e3c0aee2557,23,2,White,Not Hispanic
+3b964c74-ffe6-2994-9580-4c2ac44fc4b8,75,1,"Black, or African American",Not Hispanic
+f2a32efd-ff13-8c80-c398-c3320e500785,52,1,White,Not Hispanic
+ef69a980-5ad4-79ef-636f-a890cc21cbdb,21,1,White,Not Hispanic
+5d696bc8-dc54-d59b-86bb-42c7d8b2f8b6,67,1,White,Not Hispanic
+96053035-6545-c030-a981-fa54f121e129,23,1,White,Not Hispanic
+9b792afa-2a3d-418d-a754-a29ff143e545,21,1,White,Not Hispanic
+43d75413-a939-ebd1-e516-b0d47d3572cc,21,1,"Black, or African American",Not Hispanic
+6334fa2a-8b4b-d7e7-a451-5ae01754bf08,20,1,White,Hispanic
+0b6c03c8-721e-5419-2fc3-e6495e911b91,30,1,White,Hispanic
+436e3c49-770e-09db-7092-d40143675d58,41,1,White,Not Hispanic
+ab0b4cc5-15f0-ea19-18c1-80d2aadf3692,37,1,White,Not Hispanic
+6319629b-d73e-7bb9-0f9c-a17b8db8dadf,51,2,"Black, or African American",Not Hispanic
+fb95d0fc-ad72-ed05-924c-de09ccea5031,50,2,White,Not Hispanic
+16476e3f-1127-b207-ceae-1325ea074d80,20,1,White,Hispanic
+7233d5af-9813-3da1-7d21-20ad5f59fb4d,21,1,American Indian or Alaska Native,Not Hispanic
+f76b9723-a990-2071-ffda-9a9382f29004,29,1,"Black, or African American",Not Hispanic
+46e1ee40-dc8a-b6a7-533c-2ed5a3fe0479,34,2,White,Not Hispanic
+7f53d344-a7c8-54e4-0684-3c86b8a60402,61,1,White,Not Hispanic
+8ee9581a-e061-f65f-a859-6f8cd73418fe,36,2,"Black, or African American",Hispanic
+7885187d-18fc-83b7-4b35-6e9a2e5eeb6a,18,1,Prefer not to answer,Hispanic
+e3082ddc-c9c0-4b7d-6ba4-170b4e9d23e9,56,2,White,Not Hispanic
+9ee339ff-f1bd-b598-948f-664a9565257b,20,2,White,Not Hispanic
+24aa5685-7523-66ce-fc95-0bbae8184f34,38,1,White,Not Hispanic
+3610901c-2196-b3b5-fc21-109bba27bc64,23,1,"Black, or African American",Not Hispanic
+c72850c1-3322-c68b-9be7-8aec32da81f0,49,2,White,Not Hispanic
+13365c0c-82ff-1f2e-c78f-07cf170fa87b,20,1,"Black, or African American",Not Hispanic
+ad409244-cd35-66ef-5c37-07394a629c5e,21,1,White,Not Hispanic
+57bcad3a-d0a1-7fe8-5f64-2a5317cba85d,21,1,"Black, or African American",Not Hispanic
+9e44e98c-b359-390e-b030-9aaf85ea16e0,33,1,Asian,Not Hispanic
+e45e2ad0-8eef-a5dd-d391-6dcfd6cade2c,69,1,White,Not Hispanic
+816ce054-282c-6470-ef32-f72aa4b5c723,63,2,"Black, or African American",Not Hispanic
+92b26acd-cd1f-75a3-71b6-5ca175873920,58,1,White,Not Hispanic
+811317a8-f4c8-e393-96dd-6c82a8909e31,43,2,White,Not Hispanic
+95ca788d-d6bc-a712-6ecc-a931ef705d01,40,2,White,Not Hispanic
+8ff19886-5a2c-41bc-c2c2-26ff1d8b32d9,26,1,White,Not Hispanic
+6c21835d-d8e8-b97c-e0a2-59014932936e,60,1,White,Not Hispanic
+0d95aaf5-2534-21bc-6180-b78a06783c34,59,2,White,Not Hispanic
+b1644235-49a2-afde-b235-7a3ccc7f9517,38,2,Some other race,Hispanic
+bd0b0fa2-8bee-f83f-96a0-6bf2c14ebd10,61,1,White,Not Hispanic
+4b27b079-5c5d-3f1b-54c0-c6c254f6516e,21,2,White,Not Hispanic
+c5f833cf-f4ce-8477-f8bc-a9ac2ada62ce,59,1,White,Not Hispanic
+b864a47b-a434-47fb-0182-978288eae7d4,43,1,White,Not Hispanic
+d926fe41-b36d-0121-0ba6-fe0995ea6825,55,2,"Black, or African American",Not Hispanic
+35c606b5-4e00-3d55-15ca-dfaff26d3dd3,37,1,White,Hispanic
+94a1eab0-b9c0-37aa-3289-f58b1923cafc,37,2,White,Hispanic
+11defebf-9e98-961d-48fe-bf6d199c8d94,18,1,White,Not Hispanic
+c921057c-3f05-557c-502e-d818013ca998,67,1,White,Not Hispanic
+54e14f3a-bba4-1ae0-adf8-f7672261ddef,53,1,White,Not Hispanic
+a542deb9-2cff-45f8-1bdc-74a98d3a5d76,27,1,Some other race,Hispanic
+d0095507-07fc-584e-a1b2-462781d67019,24,1,"Black, or African American",Not Hispanic
+e4dc4306-8b20-ce3e-42b7-c0488d3543be,20,1,White,Not Hispanic
+a7668617-78db-cde3-8a28-4792ffaca645,30,1,White,Not Hispanic
+0a58f43c-5bda-0655-f06d-ca247bc6e121,30,2,White,Not Hispanic
+3b53f64b-7cd6-1da4-c2ef-da8b38048786,23,1,White,Hispanic
+ec257a75-421d-4dca-2a95-59080e503fd8,55,1,White,Not Hispanic
+9b4547e0-72fe-fdc2-3772-aa9715f39d39,34,1,White,Not Hispanic
+af32baf8-811d-b4af-e8ca-7483dc0e3375,34,2,"Black, or African American",Not Hispanic
+937ca77c-b25b-6de7-d652-1e08c2f43c10,30,2,"Black, or African American",Not Hispanic
+be5f902f-b58a-c738-0166-72213063ae7f,31,1,White,Not Hispanic
+85c53910-93f6-f723-01d2-3a76ca179780,45,2,White,Not Hispanic
+8222cd7f-36e6-ba85-19ab-dc15296b67bf,20,1,White,Hispanic
+0eb5e5a7-98f3-f640-f6a9-e3e3b62bccb1,33,1,"Black, or African American",Not Hispanic
+f9c3ee05-0012-d399-a7af-55453d3fec1b,44,1,White,Not Hispanic
+8cb21aa2-1715-1c03-eb4f-36381190e515,41,1,White,Not Hispanic
+8f221604-d46b-7756-b9e4-39ef48d495a4,59,2,White,Not Hispanic
+746b161a-31cc-6738-f68a-e9b79b3aa1d1,34,1,White,Not Hispanic
+0130d66b-932d-1648-6769-b0f1ee01b9e0,21,2,"Black, or African American",Not Hispanic
+71594914-b1b6-8ecd-4009-45ce932c3ec9,20,1,"Black, or African American",Not Hispanic
+b38046ef-ad4a-2b3c-386a-f9ddfe83c32a,55,2,White,Hispanic
+37f3f32b-5a81-762a-5059-f77b79ff89d9,23,2,"Black, or African American",Not Hispanic
+d61a080a-3fec-0a37-d5be-a8dc33e88249,33,1,White,Not Hispanic
+84a91789-b2c0-27e8-1ed0-72e9f9fc6034,23,1,White,Not Hispanic
+6c878546-7faf-6458-2f14-f7775dad348e,60,1,"Black, or African American",Not Hispanic
+411920f6-d056-6199-3728-ddc20f5e8b47,32,2,White,Hispanic
+581993cc-41f9-994a-cf5d-337fee8d5daa,71,1,White,Not Hispanic
+fab8328f-2cae-93a2-89d7-16efa62d7221,67,1,White,Not Hispanic
+de46222e-2514-c7ce-f4e3-5f7ba1b7e3d8,21,1,"Black, or African American",Not Hispanic
+855c0a97-9640-5fcd-bf76-14495cf85eeb,32,1,"Black, or African American",Not Hispanic
+9740b212-2d52-45f4-8a0e-c018b29769b2,77,2,White,Not Hispanic
+7b4d8646-58e0-058f-e8af-301f4f45f6f7,35,2,White,Not Hispanic
+16ed0330-ce01-5413-3a25-16fe8a27b0b0,48,2,"Black, or African American",Not Hispanic
+c21f84fc-d0bc-bad5-85f8-0d9b00060d5a,42,1,White,Not Hispanic
+c166a8b3-f26b-cebf-7def-3b8eec0dfc3a,62,2,White,Hispanic
+3878becf-60dc-12eb-d413-c85063c4e76d,39,1,White,Not Hispanic
+44d18524-cf0e-1567-882d-7fc1be3074f8,47,2,White,Not Hispanic
+1c405045-4a22-eae9-22f9-cafe2eb23ca3,45,1,White,Hispanic
+17172654-3b99-7815-0219-a9c7ba23b07a,20,1,White,Not Hispanic
+3f46057b-7165-e36b-f997-c779c56f05e6,73,2,White,Not Hispanic
+289ac251-52b4-44e8-efab-cd734fe66636,32,1,White,Not Hispanic
+b0d515ab-c891-d55d-94c1-76b90ac013d5,48,1,White,Not Hispanic
+8b2ab759-2fc6-c4e6-9113-5d7e30952621,36,1,White,Hispanic
+9ec5405d-c6a9-0598-5d34-0833db592a19,77,1,White,Not Hispanic
+999413cc-ff99-57a8-88ad-b388287e4086,34,2,White,Not Hispanic
+be9cafcf-ed17-f6e9-8cdc-718dc4057420,33,1,White,Not Hispanic
+73d0b6c7-f62e-cf88-5c29-850b410bfc29,18,1,"Black, or African American",Not Hispanic
+7b874b4a-cafb-c4fe-531f-04afb93c92d5,25,1,White,Not Hispanic
+cde55848-b19c-905e-57e0-a1f103840661,37,2,White,Not Hispanic
+a90e319d-637e-3f94-110c-8d920222305d,63,2,"Black, or African American",Not Hispanic
+078c3875-ba21-e269-2540-fbfee12ff6cd,33,2,White,Not Hispanic
+39ed0800-3179-79f9-29ed-e760233408ba,18,1,"Black, or African American",Not Hispanic
+f06b6c12-9c8b-9550-64e7-0f9a501a0ccf,31,1,White,Not Hispanic
+8941bdd3-9803-a82e-926a-4bd0be125f8f,33,2,"Black, or African American",Not Hispanic
+c60fb252-4df7-42ae-e267-e12b65e5f13f,62,2,White,Not Hispanic
+dcd81a8b-a8d6-faf6-df0d-def190c40e45,80,2,White,Not Hispanic
+37850b5c-3ce5-988c-7e53-d702e1f8d192,28,2,White,Not Hispanic
+99e95433-1453-e17e-711e-be6f68ffae17,20,2,White,Not Hispanic
+a0ee404f-9ea8-fcb1-4732-68c98c1e9464,32,1,"Black, or African American",Not Hispanic
+1f3cea1d-2271-97ca-7887-73ed4af715b7,47,1,White,Not Hispanic
+54470290-4640-4b2a-dc02-28afb1d29457,42,1,White,Not Hispanic
+fab6ad91-bacf-7cfc-9245-1cc41bfb3b3d,56,1,White,Not Hispanic
+9ad2bb72-b04b-a584-b95c-ec2d7bd15655,21,2,White,Not Hispanic
+1d2467e2-0191-d19d-c45c-3fbb52ecac27,51,1,White,Not Hispanic
+ea8b31f5-ccae-58fe-54eb-8e20af7c7d2b,35,2,"Black, or African American",Not Hispanic
+10f35676-5a85-3cd8-cbb8-6be0e355e636,51,1,White,Not Hispanic
+2a7cf9e9-d7a7-e7b1-88c6-2063a06303ca,19,1,White,Not Hispanic
+d4575305-73b0-220d-5f20-19ea3cd61f5e,23,2,"Black, or African American",Not Hispanic
+3487246c-21f9-c072-fe22-eba1ad3d581e,23,1,White,Not Hispanic
+4fb67094-123c-f911-2bd8-ad4d3eacdb28,29,1,"Black, or African American",Not Hispanic
+076c108d-214c-87b1-0cfc-64207192e443,29,2,"Black, or African American",Not Hispanic
+b465c027-2dd1-d45b-6454-a82a6d2cdbf9,30,2,"Black, or African American",Not Hispanic
+a124fdb2-97be-df31-e42a-a836989b68c0,21,1,"Black, or African American",Not Hispanic
+1ce62a9f-79af-8348-10bb-c60d07bf63ee,50,1,White,Not Hispanic
+3e628981-9ef1-a74f-3d13-452669d75427,65,2,White,Not Hispanic
+354f184e-5739-0b03-10e9-4dce6241cba3,46,1,White,Not Hispanic
+cf51a203-a2d9-99ba-c146-ed52e73bc913,35,1,White,Not Hispanic
+6f689d65-61ae-3f21-67f1-c18b61fe800a,34,1,White,Not Hispanic
+147f0413-b0c4-6ddc-f634-71f87b45bd9c,19,2,White,Not Hispanic
+13ad3ead-816e-bf32-2077-5ce4151f62f9,38,1,"Black, or African American",Not Hispanic
+2f2bdc13-b216-5b5a-1c60-57fee5605cfb,51,1,White,Not Hispanic
+fabb6609-7de1-7a85-11c4-194a70c98336,26,1,White,Not Hispanic
+6e66a273-c4ca-00d7-8a66-de6724d4d5a3,28,1,White,Not Hispanic
+1b332e43-a4b1-cf6a-9d2c-e51b37e82d71,31,2,White,Hispanic
+546fcba3-b336-d143-26cf-bf5144352e6f,55,2,White,Not Hispanic
+c2ad0d97-75aa-ecb0-d757-ad381498d0dd,31,1,"Black, or African American",Not Hispanic
+102f4f5c-55e3-9295-2c67-10bd97d46f61,49,1,White,Hispanic
+c1eecd7a-2428-185a-461d-e0171ee92d3b,28,1,White,Not Hispanic
+24a167fd-34c6-ea9b-207c-0594b13e655f,66,2,White,Not Hispanic
+fa0f01a4-87bb-1f6d-fc92-0c731e14fe04,30,1,White,Not Hispanic
+2875ad5d-2d06-f862-8990-779cecc3b699,27,1,White,Hispanic
+95c89b2d-7892-d145-12d2-d7e6387d5add,21,1,"Black, or African American",Not Hispanic
+81145252-c4c3-6368-bbc5-1a50787cb0d3,36,1,White,Not Hispanic
+68181f5b-bb56-588b-b172-ec53032e2730,18,1,White,Not Hispanic
+ab45eaf0-7ad3-0e2a-0413-ffc7173a0c96,25,2,White,Not Hispanic
+b432ece9-76dc-16b5-a076-aed65ed3e00e,20,1,"Black, or African American",Not Hispanic
+236e9007-3468-0b6e-c609-0b78b5971e43,59,2,White,Not Hispanic
+d45e087f-86d4-aba8-805f-08927c795dd9,38,1,White,Not Hispanic
+f4ca6e70-74b7-99ec-48cd-42c05a66219e,18,2,White,Not Hispanic
+c4605896-ef87-bf0d-c802-2f8e38de6b6e,40,2,White,Not Hispanic
+82f552c8-9ae6-6149-9a69-78cf51589375,29,1,White,Hispanic
+24c58b47-1609-34d1-9912-509096516ec2,24,1,White,Not Hispanic
+9736bb4f-f5c8-ce3c-eee3-1d4710ecf6ae,23,2,"Black, or African American",Not Hispanic
+397a284f-76a4-c79b-bd67-34588f2d0b17,40,2,White,Not Hispanic
+1fca0f16-78f8-755f-a2f5-a68bd590f435,68,1,White,Not Hispanic
+07480379-3ea7-f419-a510-af65b0167db8,26,1,White,Not Hispanic
+42067d80-de4b-eb12-6fa2-2f9290c97f00,26,2,White,Not Hispanic
+7606fa34-51d6-9f11-2569-3e130efa8993,42,1,White,Not Hispanic
+6e663c0a-c1e0-a4a1-7bf8-20f6c6523c3d,40,2,White,Not Hispanic
+4d38a8d0-10f5-9651-0b14-7f1f40c56cf6,30,2,White,Not Hispanic
+ec9a799e-1943-7791-b9b0-7ec4f93c8859,23,1,"Black, or African American",Not Hispanic
+74fa65ce-489a-c27e-6281-03f01d9fff25,55,1,White,Not Hispanic
+db558642-3054-366b-6d8e-e559daf93e99,31,1,White,Not Hispanic
+6cb96a2c-d68e-51f0-3b9d-58321f6d5768,48,1,White,Not Hispanic
+f14152c7-a0dc-ec7d-3b17-23197f4d55b9,25,1,White,Hispanic
+da55f825-5086-f384-733a-c54f62359144,33,1,White,Not Hispanic
+3c10316d-3f63-a065-3e85-c8c4a9470663,59,2,White,Not Hispanic
+58e9bbad-35b1-773c-6d56-cfd579ab3018,60,2,White,Not Hispanic
+45d07382-28cb-b7ca-33b5-a667097913a0,19,1,White,Not Hispanic
+abf2b369-5d0a-06d3-e592-ee7c683199c6,36,1,White,Not Hispanic
+eafd3e7b-fa5d-bd40-ed71-1fe9649a0bf9,32,2,"Black, or African American",Not Hispanic
+222db2cf-bc34-3d5d-df9e-14257a7628e6,69,2,White,Not Hispanic
+f541a44e-16cc-b813-2635-53ba4299b351,39,1,White,Not Hispanic
+340155bd-b6ac-1c8e-3977-c7b41e56d346,21,1,"Black, or African American",Not Hispanic
+21da5db1-5ef3-61c2-abd7-d3f1650ad9aa,51,1,White,Not Hispanic
+e52a33e6-fec5-8a89-1db3-c0756fb9de37,21,1,"Black, or African American",Not Hispanic
+fb38bc6c-ae6a-7c48-48c6-a7ed06a574ec,42,2,White,Not Hispanic
+be69ad39-0e37-8b07-cc53-5c3e52bb530d,37,1,White,Not Hispanic
+054046cc-16d5-0b84-661f-7117dd926cbf,35,1,White,Not Hispanic
+a5accd5a-48f1-8eed-6703-7089c78cd2c3,21,1,White,Prefer not to answer
+f9285706-577c-9717-836a-58870a5a2698,40,2,White,Not Hispanic
+bd9277a4-1d2a-e042-042a-2f6480e1be4d,60,1,White,Not Hispanic
+5761b099-43db-ea42-cece-36ae9fb209b1,22,1,White,Not Hispanic
+be86f5d0-f73e-eb07-a860-25bfde68666d,33,1,White,Not Hispanic
+4d844cb6-7c99-d86e-b9d5-546c9a154b85,55,1,White,Not Hispanic
+160a3a13-30df-c50c-89e0-8b89ca3e3238,28,2,White,Not Hispanic
+ef6e9295-9c8a-f485-b980-50a6974e598d,47,1,White,Not Hispanic
+6ab76840-f5b5-ac71-63ef-5e69b61d56f5,42,1,White,Not Hispanic
+a70a409d-ac50-c260-f0f2-4933d544c79b,58,2,White,Not Hispanic
+7b9ea9eb-aac4-363f-1610-ac0abfcf214e,18,1,"Black, or African American",Not Hispanic
+cb21aa80-19d4-d39a-7dff-e27d9b125dfb,48,1,White,Not Hispanic
+8fde042a-1ee5-6930-3a08-5f6a9e189a98,35,1,White,Not Hispanic
+c81a5f0f-1b1b-ba94-f983-4d4b1c65f6bd,20,1,White,Not Hispanic
+f83a1bce-7069-6977-33af-15bed93d8722,53,1,White,Not Hispanic
+8422c0cf-da36-433a-f3ab-d2467570d730,58,2,White,Not Hispanic
+c680a2e5-678d-af97-a614-f06ac81484cd,65,1,White,Not Hispanic
+e13f8740-bd74-0fe0-b808-8e14b9a01137,63,1,White,Not Hispanic
+8a39068b-cbed-e473-e3eb-f7c10723e11e,47,2,White,Not Hispanic
+13fc927f-7237-cf5b-36fc-1c4679ebb8bb,58,1,White,Not Hispanic
+752caa97-b60d-f6a3-7c19-8515208b326a,28,1,White,Not Hispanic
+83601fb5-b45b-bad3-f7d0-eea0211f632b,21,1,Some other race,Not Hispanic
+bd5a6112-d1b2-2e3c-2ede-2487373058be,26,1,White,Not Hispanic
+80acefb5-79d0-5e2b-c024-9b51307c3f63,41,2,"Black, or African American",Not Hispanic
+4c4b52aa-0ef9-f903-b69a-deac06f4b0ee,30,1,"Black, or African American",Not Hispanic
+3d57ee27-33da-efc1-0d47-e26d1ef7a52e,24,1,White,Not Hispanic
+8dd7e052-44e7-a702-04c4-7757e2db1ce3,34,2,"Black, or African American",Not Hispanic
+19fc8579-acd3-2f62-960f-69fcf6a646ee,25,2,White,Not Hispanic
+a98afcb0-3ef5-27fe-45e4-307a73e5550d,45,1,White,Not Hispanic
+35eb728f-5775-0d0f-5256-e276fba75385,33,1,White,Not Hispanic
+fae91634-3bf8-5406-389d-2267b7c25d94,49,1,White,Not Hispanic
+096b7724-5ced-83b3-f7a0-be7a7e6a3ea7,29,2,White,Not Hispanic
+bd22f7fc-a8eb-2ba6-319a-ed6a8d41cb4c,36,1,White,Not Hispanic
+f845846e-fdf0-861e-05eb-074dad900360,60,2,"Black, or African American",Not Hispanic
+eb1bb47f-4726-9e7f-0c05-e009397bfdd7,24,2,White,Not Hispanic
+50f53bd8-72e8-9652-884c-0a556b893000,44,1,White,Not Hispanic
+0d5d2f64-8f2b-892b-0e48-4034ad74dd43,36,2,"Black, or African American",Not Hispanic
+7412c272-02b7-1c51-9fbe-ffb3a8e3ac9b,26,1,"Black, or African American",Not Hispanic
+b1420898-998a-05a8-77a7-aed0fb5f5290,54,1,White,Hispanic
+1ad74fd4-298b-2e78-5420-60ce6b2f9d47,18,1,"Black, or African American",Not Hispanic
+5b9e75f4-12e0-0b9c-0288-49d95ce195be,31,2,White,Not Hispanic
+247474b3-1d7d-0bb3-8e00-44e207af3b8a,21,1,White,Not Hispanic
+5c230306-c3f9-f409-e9a7-480095ef8b1b,50,1,White,Not Hispanic
+19e79a3d-e920-4a24-4304-93f0d7c713b7,27,2,White,Not Hispanic
+23226464-ad6d-84ef-d4d9-a0ae055fd8d1,55,1,"Black, or African American",Not Hispanic
+a1243bea-0da2-6154-3f46-a43a53e2e047,24,1,"Black, or African American",Not Hispanic
+ba303cce-3590-97e0-7d2e-7d9ee2c6093e,36,2,White,Not Hispanic
+5fcfe711-8258-3678-c04a-7761a52368e3,46,2,White,Hispanic
+94c8a69d-44b1-a1ee-7948-36f27eaab0a1,33,1,White,Not Hispanic
+46c3c90c-c92e-fe01-1402-3a93a4c688ec,72,1,White,Not Hispanic
+641e7f8c-4c25-998e-cad7-3d36b62e8f02,31,1,"Black, or African American",Not Hispanic
+2df8d4a8-3fc7-4cb8-6a40-e5cc2cd51392,30,1,White,Not Hispanic
+286e3f0a-dedb-aec4-e2b2-de4b3d5cab0e,71,2,White,Not Hispanic
+89a92af3-a0ca-0f8e-e1ef-2dd3461633bc,45,1,White,Not Hispanic
+11162039-ea92-659b-aaaa-077f4ab946a2,20,2,White,Not Hispanic
+761b7e11-7c19-2e61-76d8-cbc7bfa93b6e,27,2,"Black, or African American",Not Hispanic
+1a50a93c-e5a2-709d-a8f8-687bb766ac85,37,2,"Black, or African American",Not Hispanic
+52c83bfc-5b48-961f-1b1b-4cd736ba4918,22,1,White,Not Hispanic
+ca90001c-8943-314f-b668-705d1a10748c,57,1,White,Not Hispanic
+e97f995d-9bc8-d6f6-0484-a1b355c974a4,22,1,White,Not Hispanic
+03671560-fd06-875b-b462-931f966456be,28,2,White,Not Hispanic
+3e59034b-c1da-db7d-6db2-094bbce7e298,30,2,White,Not Hispanic
+57bd0ca8-54ce-20ea-bb9d-92c0d8d0b8db,49,2,White,Hispanic
+fd063a58-aa3d-d585-eaec-f4e0e81909ce,29,1,White,Not Hispanic
+2efcd60c-5256-cd59-857f-2f3e61a90fb1,51,1,White,Hispanic
+f42323d9-11ea-8815-7ddc-44f5deaf9631,31,2,White,Not Hispanic
+fdf48930-a265-df65-0d56-e00031456a6c,30,2,White,Not Hispanic
+f42973f5-d1d1-8e0b-27e7-a6bdc2a49fd8,36,2,White,Not Hispanic
+61652fd3-41dd-dedf-2cfa-a174ba059e68,66,1,White,Not Hispanic
+123c6a29-969b-6b4b-fcce-3ef8a41bc4c2,72,1,White,Not Hispanic
+25dbbe8d-a534-9425-aa69-b7f7b28d7cb8,64,2,White,Not Hispanic
+6d4772f8-d46a-77af-2a73-6a676c461d48,46,1,White,Not Hispanic
+e2fb8d66-a892-8ad4-887f-e19cf7ba19f9,78,1,White,Not Hispanic
+6ab62dbf-8663-e8bb-6af7-895bb241cfd3,43,1,White,Not Hispanic
+1c3892e8-f2cf-cd63-80ab-4b7f2e968660,26,1,"Black, or African American",Not Hispanic
+a2ed50b9-de4c-f8bc-1bf4-3b9f9fda15ac,26,1,White,Not Hispanic
+15f0e5ea-4b0a-4742-146e-6a4f2a873e02,21,1,White,Hispanic
+56282768-6df0-ac3c-9ab8-180f56479889,39,2,White,Not Hispanic
+0692fe02-238c-8712-eccf-3b91e35209a0,48,1,White,Not Hispanic
+bc5e3e2f-cebc-1bd7-f837-8be20bb68d75,21,1,White,Hispanic
+a23036d2-88d7-d47c-ec38-704b22c0eee9,26,1,White,Not Hispanic
+ec814510-c42e-afc8-9372-e80dee892190,19,2,White,Not Hispanic
+57dda51e-a4dc-4d4e-108e-04ac99c6207f,18,1,White,Not Hispanic
+302b0401-efed-098b-979a-7368bd96bb0a,45,2,White,Hispanic
+92a593c8-1db9-2330-f127-6a5cbe9f44cb,72,1,White,Not Hispanic
+d0ef1299-250b-1c5a-50e0-8a8175ea1023,59,1,White,Not Hispanic
+d3e78237-cd21-74d3-d960-6af0aa546c79,30,1,White,Not Hispanic
+4a9f6c5c-7eb9-fe2d-3738-7270d424d9f3,20,1,White,Hispanic
+0f0e5767-606f-fa15-f76c-432eb4428cde,48,1,White,Not Hispanic
+dbc21e42-fd0d-4cb1-c916-7a93ada63c4b,23,1,White,Hispanic
+c69e17c9-6018-5b17-bec5-715ca71db3a6,21,2,White,Not Hispanic
+a43366c9-7d3d-6b72-1f3e-c5721527b2ac,29,1,White,Not Hispanic
+fcc2ed18-92ae-f13c-963b-d56405e514ff,33,1,White,Not Hispanic
+fffcff63-7bf3-f8f5-624b-31d72e5c58ad,74,1,White,Not Hispanic
+105dd35c-7d12-7b6b-87b3-d329cfec1804,24,1,White,Not Hispanic
+89fab5cc-95b0-4f8a-d64f-10b584d6b400,23,2,White,Not Hispanic
+41bb0e0d-8fff-c06d-167b-6ea029451370,46,2,White,Not Hispanic
+4c6f9a45-8192-ef8f-1fed-7603fadc9704,25,1,White,Not Hispanic
+7d8da92b-93ba-f4a3-23cd-8a4471e64bce,43,1,White,Not Hispanic
+e92915a3-85cd-74bf-501c-93a3b1f22be5,69,1,White,Not Hispanic
+f0b0e729-6ce3-4d67-ad30-c94b4111e681,37,1,White,Not Hispanic
+a54427ec-b261-ad5c-a214-245cfecfdd72,53,1,White,Not Hispanic
+82ece8aa-d20c-d375-a5d4-53c4a845fee9,36,1,"Black, or African American",Not Hispanic
+b7ed70cf-f111-be9e-8545-b11f6d820335,31,1,White,Not Hispanic
+3a9048cc-d063-d3e7-ec7e-f0abe1a29ffa,41,2,White,Not Hispanic
+9347f486-2a44-da88-17f8-5f5bf1e2cce7,55,1,White,Not Hispanic
+ceefd2c9-7e2b-73ce-edf9-8b8d8ddd6a3e,38,2,White,Not Hispanic
+ad411244-ff79-f0f4-af64-257283d7cafc,55,1,White,Not Hispanic
+fe85544c-3e85-9c67-5855-e4a0bfea3d2a,34,1,White,Not Hispanic
+2b24ef63-f6f3-2192-72da-dc219b7cd539,30,1,"Black, or African American",Not Hispanic
+22212e52-d6e3-8103-5df7-0cc1133b385e,60,1,White,Not Hispanic
+00926d61-368b-7d68-43c6-b5324b25c483,28,1,White,Hispanic
+ae864837-ccc1-0250-7edd-84838cd4e7bc,50,1,White,Not Hispanic
+c0476d80-532b-d70a-209f-839fb6ddbd11,28,1,White,Not Hispanic
+bdecb67a-ec6e-8294-b9da-c7798079cdc9,40,1,White,Hispanic
+15263fef-7c65-dbfb-483f-ca724a1a7c2e,47,1,White,Not Hispanic
+615eca80-0d0b-6920-dd46-0c9117478b5c,39,2,White,Not Hispanic
+b33d9c7c-4e73-3dcc-8664-82ee6844a0e3,52,2,White,Not Hispanic
+0d394b57-a4d4-df15-6d54-a50182866d40,43,2,White,Not Hispanic
+5d13539c-44ed-4fd5-1c2c-8fb14de5f2f7,41,1,White,Not Hispanic
+47b885fa-78d8-cdd6-490a-886c36442939,33,1,"Black, or African American",Not Hispanic
+96c2e045-c75f-fb36-be30-cae95c83b98e,31,2,White,Not Hispanic
+35c0c003-d2cb-03eb-fd52-3fad3fbefe33,26,2,White,Not Hispanic
+f8e351ea-9aeb-bc3e-a1f7-815758f34359,36,2,White,Hispanic
+bb0084fa-3822-b51b-5b00-f1a0d2ed3196,44,2,White,Not Hispanic
+653d171f-c0bd-e748-dbb4-64a3cec79642,70,2,White,Not Hispanic
+91d51b06-3059-1fbc-2d15-94cbdcc31cb2,42,2,White,Not Hispanic
+4eb0c866-29c3-d598-d0c2-4f2171bf5c97,29,2,White,Not Hispanic
+3e6a41f1-278e-2f60-7a99-bd7654edfb70,31,2,"Black, or African American",Not Hispanic
+f4dafcc8-1a0b-6310-397a-4dc81c31d9b9,54,2,White,Not Hispanic
+5c494d63-1e4c-3fdf-556e-fce49d9e4da2,37,2,White,Hispanic
+afe9c3dc-aad2-6db6-e4a3-5a102674d1ff,21,2,Some other race,Hispanic
+f1abf7a0-cd59-1b8c-2362-7835555df8c6,20,1,"Black, or African American",Prefer not to answer
+89eb56c1-7f42-1889-8ca1-7f756b2d470a,35,1,White,Not Hispanic
+894539ec-8850-3e9d-7e1b-203488a5316f,18,2,Some other race,Hispanic
+340a22d7-00bb-d543-5c98-fd573c359ce2,32,1,Asian,Not Hispanic
+bf3b1681-0e4d-364e-397e-8bfbd3ec2149,21,2,"Black, or African American",Hispanic
+6680c5e3-363c-bc32-be3e-14022008bd4c,78,1,White,Not Hispanic
+300ffa68-4f22-7efa-e8e1-3f98c1ab6398,22,1,White,Not Hispanic
+acb83fce-b3e1-511b-2128-04c5f94e485d,24,1,White,Hispanic
+ae742530-ceb6-bfdc-3734-a78de2682c9f,23,1,White,Not Hispanic
+9bd65068-ba8d-6f8c-fe05-fcef842c49fa,29,1,Some other race,Hispanic
+c35d8f64-418a-f089-fa7d-e9617927a136,39,1,Some other race,Not Hispanic
+5d0c8205-0a22-be56-7cfe-8ab0919883f9,25,1,"Black, or African American",Not Hispanic
+b32281f3-3eac-5015-ca64-25fcbdb4f711,31,1,"Black, or African American",Not Hispanic
+366f4268-7c7d-d490-9ab7-f449ff169376,59,1,White,Not Hispanic
+7b4bcaf8-6b4a-3541-f123-167e596a2b36,29,2,"Black, or African American",Not Hispanic
+c8aae0c8-b057-31fd-8916-f0b779ba547e,25,1,Some other race,Not Hispanic
+32d4d3a5-98dd-6c3c-e4ce-b832c8776e4b,22,1,Asian,Not Hispanic
+4e954929-e58b-2d2d-4d4c-3b8004251c71,23,1,"Black, or African American",Not Hispanic
+55f8bbb8-c3dc-5b92-f95c-a96d85ee751c,23,1,"Black, or African American",Not Hispanic
+1a8a76f3-6949-9fce-eeb8-1b7d9dc33d41,23,2,Asian,Hispanic
+da095b0c-4a37-2da3-aaef-0d3e085acd62,21,2,Prefer not to answer,Prefer not to answer
+1d4ff1c8-618e-72a7-8d34-dd8374629fb5,47,1,"Black, or African American",Not Hispanic
+cb33478a-f7b5-b05b-59c1-d16c1fdb563a,41,1,White,Hispanic
+ac5d7133-6a2a-dcad-e8ca-5b2ecb8e2d61,31,2,White,Not Hispanic
+20572e73-cd19-9b5e-b5c4-3078197df05f,33,2,White,Not Hispanic
+60cb9e17-c93a-7471-ce9d-ef4ec7affa24,45,2,White,Not Hispanic
+6b7f0864-aff5-4774-35d5-f4e513893a70,29,1,White,Not Hispanic
+293e16b3-cefd-1224-736c-c67ee886818e,18,2,Asian,Not Hispanic
+2067902b-f099-e2b6-b10c-cf77ba4d6c8e,38,1,"Black, or African American",Not Hispanic
+34b16488-cb4a-1b4b-2a68-3e184fc40b0a,42,1,White,Not Hispanic
+f34bfa59-a525-23e3-e093-97d5d3a1b88a,27,1,White,Not Hispanic
+3b8ede31-e614-15dd-5251-d645cb94cf8d,46,1,White,Not Hispanic
+0490eb68-48f8-2df6-0571-dd83938fdb37,60,2,White,Not Hispanic
+784aee43-11c7-beb2-042a-6bd7a51004b8,67,2,White,Not Hispanic
+7e4b4f10-745f-780e-fbe5-403bb24b007b,45,2,White,Not Hispanic
+d0ef0cd4-5e6e-e398-cff1-b675e6fb976b,24,1,White,Not Hispanic
+0d700c8b-de36-390a-b030-9415ef21db2c,35,1,"Black, or African American",Not Hispanic
+db19de67-bc3a-8abb-a5aa-9765a8d3bb7d,35,2,White,Not Hispanic
+1b0c9092-8127-a8f7-d909-e0c9276c7935,39,1,"Black, or African American",Not Hispanic
+73d2939e-f99d-d6d5-62b5-17815d17c25d,54,1,White,Not Hispanic
+6e4c1501-808f-8cb9-659d-12db268f090a,25,2,"Black, or African American",Not Hispanic
+70fbb28e-0d9b-b3b5-556f-f3c182077e01,56,2,White,Not Hispanic
+307fc576-4b43-f873-31a5-80d76c2ec07e,23,1,Some other race,Hispanic
+84c42de1-7e5d-a21a-9b81-b89887916cbe,30,1,White,Not Hispanic
+b3133c8e-9ec6-c95e-e1f2-17be39f99c64,18,2,White,Hispanic
+e8646e0c-80d4-58b9-2f61-5360182047f7,24,1,"Black, or African American",Not Hispanic
+ae7303c0-50ab-3660-2b94-5cbb3d162ab9,55,2,White,Not Hispanic
+794ceef2-f833-dfa7-5a26-15f89810b8c1,37,1,White,Not Hispanic
+25dccca2-054e-6210-a3c9-f400ba6c557c,23,1,Asian,Not Hispanic
+fcc1c48c-7303-50ca-e992-6bade6335f58,26,2,White,Not Hispanic
+96d26487-641a-4b74-54c9-3d44e353a243,34,1,White,Not Hispanic
+ed5f24c3-7fb9-ae49-0222-3c10f82f2dc3,24,1,American Indian or Alaska Native,Not Hispanic
+108ab4de-49cb-6790-7ca0-8cde4dbbb7cd,23,2,White,Prefer not to answer
+7d05955b-0d9e-1328-1f99-7c8097d38ab9,40,2,Some other race,Not Hispanic
+8082a0ee-dbe8-1d7a-c907-03e848841707,40,1,"Black, or African American",Not Hispanic
+5f843666-831f-fc00-9490-029d3e1e0693,26,2,Pacific Islander,Hispanic
+767a92b7-0186-2029-ab8a-501567273710,36,1,White,Not Hispanic
+b819b15d-4f96-8a84-a0d4-4d244d074581,31,1,Asian,Not Hispanic
+467248f6-aaee-5d68-5e09-f48e7e32e5d0,34,1,White,Not Hispanic
+08b9b2e9-4d81-c859-949e-24ad02d22ee7,51,1,Asian,Not Hispanic
+96bf02dd-52f6-af5a-b2a0-f8512121cc4f,49,1,White,Not Hispanic
+114c440d-675d-b93b-d473-6d379e12d7cf,21,1,"Black, or African American",Not Hispanic
+01572a56-e4ae-b85f-23fb-e8f2cf5cbd7f,42,2,White,Not Hispanic
+917bc866-6874-7b44-c63e-23bf5c0c309c,20,1,White,Not Hispanic
+351d1137-d518-5b72-30ac-cfda7f055b10,55,1,White,Not Hispanic
+e65664ac-9e54-a175-5b42-9d0e5a239f52,20,2,"Black, or African American",Not Hispanic
+88cfffa2-1324-97ee-49be-e3ddf7d65f6a,61,1,White,Not Hispanic
+4feeea91-8003-14a8-9c7a-b4e3ee8b09a3,21,2,"Black, or African American",Not Hispanic
+0f344fe1-c3c5-bbb5-e355-ce1655a47eab,18,2,"Black, or African American",Not Hispanic
+9c291269-e781-c4cc-9058-e121f2aff86f,20,1,White,Hispanic
+ceb7803e-c3fc-ac0e-d5c2-c94db3fdc2b8,24,2,"Black, or African American",Not Hispanic
+121d87ac-fb26-7d27-5889-55c0090d7d2f,18,1,"Black, or African American",Not Hispanic
+1aa3c18e-0aaf-8962-b92c-23e3454009f2,39,1,White,Not Hispanic
+39a9a8a9-81f2-5a73-7f20-f661091d1643,53,1,White,Hispanic
+178cb5a0-3b66-8afa-3cf8-b9130ed40264,63,1,White,Not Hispanic
+a8575900-7a8c-2c36-65d7-71639b2aeea6,27,1,White,Not Hispanic
+d03c9c2c-bc37-49b1-b48b-9a8c7eb3aefc,23,2,White,Not Hispanic
+7c781b98-9f32-fd3e-f358-206db49bc1ef,31,2,White,Not Hispanic
+f3fac150-7429-cf81-c3a2-15ffa660604f,43,2,White,Not Hispanic
+efede7bb-5909-b7d6-c353-b9e48aa2f756,18,2,White,Hispanic
+fdab0afa-dbc7-945d-4994-41c5ad8f6932,23,1,White,Not Hispanic
+f5d68c8f-299c-cd73-4295-f5c984d77929,25,2,"Black, or African American",Not Hispanic
+e85fda55-21c2-68f3-3cfc-7050ecb697a2,41,1,White,Not Hispanic
+a72d0bf4-c84d-16c0-4021-a347a8c34b25,18,1,Some other race,Hispanic
+a34321bf-7aee-e7df-5bd5-5037f7444596,25,1,"Black, or African American",Not Hispanic
+145d2f7e-f057-712b-945e-b87f0eff6a6b,20,1,"Black, or African American",Hispanic
+0b73a040-b7e3-c615-8a5a-5d575a742a53,28,1,White,Not Hispanic
+d44260d2-5f11-6839-9203-7fc25366e938,33,2,White,Not Hispanic
+bdf68eb0-c7e7-5797-b73c-91ca82c3892b,20,1,White,Hispanic
+f525d556-bb98-abdf-71ec-02ad3db538c9,31,1,White,Not Hispanic
+cbbd3732-42a1-a429-9b05-0a6c235d2722,20,1,White,Not Hispanic
+20a0c244-5ab7-d8b2-6c1f-b2fce77d9bec,41,2,White,Not Hispanic
+2d3dab8a-7047-3d9d-5208-26b8611eb15c,27,1,White,Not Hispanic
+2b589b3f-e2a6-3e3c-3940-093a705cd91e,34,2,White,Not Hispanic
+b75c3825-1c0f-b87f-eb01-bba74b814a84,40,2,White,Hispanic
+230681aa-dd50-0d6b-163c-b5294357ac51,27,2,White,Not Hispanic
+38f1f1ab-cb17-0945-be88-f8e4143dbd6c,46,2,"Black, or African American",Not Hispanic
+09d1c11f-ecbb-1aac-e46b-f89a5097621a,32,1,"Black, or African American",Not Hispanic
+3ef433df-020a-5c40-a095-c0d0a26e67da,50,1,White,Not Hispanic
+df42eabd-604f-3c8d-961a-9968230a37e5,25,1,White,Not Hispanic
+3f555c7d-534d-388e-7279-ec9ef8281e0b,23,2,White,Not Hispanic
+65e92e49-b26c-8876-58fa-e8c71d10b6f6,33,2,White,Not Hispanic
+accc1507-42f8-8fc5-52bc-b64dc59498c5,40,1,"Black, or African American",Not Hispanic
+42bd31c4-660f-dc40-6cd9-dc3f7123bc96,36,2,"Black, or African American",Not Hispanic
+e028c315-928f-bbae-38a7-c67868e968cf,46,1,White,Not Hispanic
+55525e11-b469-3821-c7ca-7ddc171acd35,32,1,White,Not Hispanic
+8914bc96-5cb2-7033-35e0-edd684c62e4b,35,1,White,Not Hispanic
+b7c315a2-dc16-cbae-6541-35f889238eb6,40,1,White,Not Hispanic
+13974770-15bd-18ba-dcaa-f6a5451ea1db,46,2,White,Hispanic
+198493ce-33e1-f6f7-757a-d70346281fb8,29,1,White,Not Hispanic
+9381ebb3-a7f2-f07e-f821-947c43a7320c,22,1,White,Hispanic
+8f962ff2-186b-6a71-1569-12ddf9cf2bd2,25,1,White,Not Hispanic
+1579bc24-3ffd-f8f1-97e9-afe27d6448b2,43,1,White,Not Hispanic
+982e2afd-77fc-562b-9ffe-37090fa4c293,22,2,White,Not Hispanic
+a2e768d7-59b7-463f-1117-f840280d4e22,34,1,White,Not Hispanic
+206faddb-1a31-c87e-904c-01a1434fe133,20,1,White,Not Hispanic
+a513964e-965a-693e-85b6-9e95cc009f08,35,1,White,Not Hispanic
+9ad28c4a-9798-739e-da78-6fcac5a06501,22,1,"Black, or African American",Not Hispanic
+c61f98b1-6097-5bc0-64ab-d0358f65abf9,31,1,White,Not Hispanic
+2b5997f2-c447-ee3f-0525-c1b4f73c6a1f,28,1,White,Not Hispanic
+f151ff15-a46e-e99e-ae4e-d89fd659d69f,28,1,White,Not Hispanic
+487f70f0-e5e4-b935-53bd-99f9c5f4656a,29,1,White,Not Hispanic
+2d9be542-9bc8-1ea5-e2b5-e74d38c0f0c3,30,1,White,Not Hispanic
+4fa3baf6-48f3-68ba-2697-64976cfb6acc,30,2,"Black, or African American",Not Hispanic
+1c968b9b-5d67-9515-f8c5-ef5c88f757fb,47,1,White,Not Hispanic
+df48d6fa-ba45-e0ff-9d51-30aed015f623,41,2,White,Not Hispanic
+76fab828-0c6d-5a71-6f54-d2b9747a2ecd,25,1,"Black, or African American",Not Hispanic
+060615bf-d1b5-1519-c44f-376a4bd01f7a,82,1,White,Not Hispanic
+4b11c181-2dc1-2143-4469-8c048af190cb,32,2,White,Not Hispanic
+091e11df-a2cf-c32d-4c34-f9de531b1e76,44,2,White,Not Hispanic
+4d4ef3fa-bfcf-f645-a301-767aed6cbe79,30,2,White,Hispanic
+2f160f3d-05ba-ec78-6696-dea06c2aeb89,28,1,White,Not Hispanic
+1c526dd1-fdfc-4a9d-3618-187c37e2dc86,26,1,"Black, or African American",Not Hispanic
+8cd1692d-66af-9249-fa98-f602bc059dfb,25,1,White,Hispanic
+37bea260-c053-f253-5a1e-490d6894844f,29,1,"Black, or African American",Not Hispanic
+4764a956-9968-5a3c-e684-79846b0dd81d,28,1,White,Hispanic
+afd50018-e27f-7dc7-aa0b-46ea1b0b249d,61,2,White,Not Hispanic
+282f0aa6-730f-8b28-ecaf-549ed37dcef3,30,2,"Black, or African American",Not Hispanic
+305a1bef-6909-03c4-6b13-b71df96846e7,38,2,White,Not Hispanic
+80dc4873-9eb3-18ad-9c15-b25e2379750a,48,1,White,Not Hispanic
+2a9d0c6a-3ffc-1e13-9c1c-ac23533487f7,26,2,White,Hispanic
+05d0f23a-5ecb-b693-f3ac-2f5e1749939d,49,1,White,Not Hispanic
+af051197-3ebb-65f1-758d-aaee760fdd95,30,1,White,Not Hispanic
+850f7bdc-ddf7-d263-6806-5678ad478200,34,1,White,Not Hispanic
+b197603c-a45c-7178-547c-903018dd3aea,34,1,White,Hispanic
+4679fe6e-9177-9972-4207-291eb3167953,60,2,White,Not Hispanic
+23d86a4f-c2e6-0c05-0926-8f85982c7129,38,2,White,Not Hispanic
+90441ec6-5ef0-195e-e152-dc3a3894de06,34,2,White,Not Hispanic
+9150d9b2-2886-825e-b741-12a5f1dde1f6,44,1,White,Not Hispanic
+278976c9-4b7d-3b08-ac5b-fe79709ad1ab,30,1,White,Not Hispanic
+dbf11941-4ad6-53d0-9b81-ce242582bca6,32,1,White,Hispanic
+fab87bb6-0a4c-b231-2d6c-18d074c0bea3,70,1,White,Not Hispanic
+ca3e7f3a-51a0-b33c-0d13-c33bc80aa7cf,47,1,"Black, or African American",Not Hispanic
+a48339f7-c703-6a4c-7150-f94fe2f2cf57,30,1,White,Not Hispanic
+4e2da257-8074-a1ed-4ea4-ae7336955a61,26,1,White,Not Hispanic
+2bf998ad-c92a-eb0c-656f-fbd8c4329e78,34,1,White,Not Hispanic
+b9f9d376-c79e-049b-6aba-8f0cc9eb6e3c,27,1,White,Not Hispanic
+d59dcbfa-db32-6207-ef30-3fd078d3ca66,59,1,White,Not Hispanic
+fa286316-5315-6a23-12f0-ed7dbff49c48,32,2,White,Hispanic
+53ed75f6-3ec7-2cca-7031-e2cd1687819b,51,1,White,Not Hispanic
+6d658f44-6928-cf38-a469-db2c1e8343bf,67,1,White,Not Hispanic
+28815cd9-8821-9541-1cc1-fb5ec7d4a10f,49,2,White,Not Hispanic
+9341dd73-a5d8-d541-2e82-2ce612b1d17e,74,1,White,Not Hispanic
+10b7de33-d627-224e-4f5a-f64ef21b7a7f,50,1,White,Not Hispanic
+c95bc917-1c01-160c-ecc9-d15ae10b3781,81,2,White,Not Hispanic
+7872d73f-e389-bcaf-074b-927e54e28fa6,63,2,"Black, or African American",Not Hispanic
+76e51a12-79c6-c757-f7fe-b7351cc6f0a0,49,2,White,Not Hispanic
+18ad8eeb-b760-7067-ab1e-5b379d15844d,60,2,White,Not Hispanic
+53f42383-21b7-8e70-e647-bcfcc2886352,51,2,White,Not Hispanic
+03aa96d2-2ea2-daec-fac2-84dd32a95261,50,1,"Black, or African American",Not Hispanic
+c5a24d77-7cc3-4e98-df39-7fa5ce96cc5e,59,1,"Black, or African American",Not Hispanic
+b67333e0-8ceb-424f-1eca-85b31c7378e6,30,1,"Black, or African American",Not Hispanic
+0c858238-4746-9fb7-33c3-2015dbb93bf6,30,1,"Black, or African American",Not Hispanic
+53d509af-c2b5-ac1b-4685-38bcac17cb47,49,1,"Black, or African American",Not Hispanic
+9c2b4ca9-be2f-7685-8a8f-fb2c1ff71e8c,41,1,White,Hispanic
+d385d453-c7ea-7fd1-ff4f-38081a9d7acc,41,2,White,Not Hispanic
+1b98a0e3-9a06-8a93-0ac7-256b61f13c8c,37,2,"Black, or African American",Not Hispanic
+e8780458-ab48-106d-6e8a-457fc712cf67,32,1,White,Not Hispanic
+69824369-ebb1-0253-4ad2-a7ba194b3b6e,32,1,White,Not Hispanic
+5a357945-5813-a496-aed9-dac5d18097f4,28,1,White,Not Hispanic
+ea072198-19ee-ad26-4e4b-36aad4249390,33,2,"Black, or African American",Not Hispanic
+52e6ef74-150b-d1d8-f882-c32691f28485,30,1,"Black, or African American",Not Hispanic
+b1f0b429-d54f-bd02-3976-c6377e9716ad,33,2,"Black, or African American",Hispanic
+db872c8f-0551-7102-f6ef-66e43e61d359,47,1,White,Hispanic
+6e6aa3ec-4378-7e6b-cd3d-dee3cdad54f4,43,2,"Black, or African American",Not Hispanic
+18bc2e3b-20f6-b8d8-9436-9f5d89cc6b08,43,2,White,Not Hispanic
+7a0430c4-58fc-8448-e555-e0870ebb51ae,61,1,White,Not Hispanic
+1053adba-25db-78d1-b4d0-aaeade19893e,25,2,White,Not Hispanic
+82095583-e03f-7c17-cc65-037491e22c1e,33,1,White,Not Hispanic
+c42c40ce-24ec-755d-683a-755ef23e9b0b,61,1,White,Not Hispanic
+963d4606-ae6b-19de-faec-fb4c8a240d57,28,1,White,Not Hispanic
+1812362f-c076-f92d-73a4-69a556f7e6bb,40,1,White,Not Hispanic
+aee4f488-df41-c155-18d2-bfd058622bb4,42,2,White,Not Hispanic
+9f40ce6a-07c4-78ba-71f2-7f0fd1a9af91,35,2,White,Not Hispanic
+a7a13e62-a9db-f628-1748-ba0185147bc9,26,1,"Black, or African American",Not Hispanic
+858c5992-882c-4812-b3c3-c4289338e35d,37,2,White,Not Hispanic
+16d4fdff-f260-2a26-3025-f0410aa86e33,56,2,White,Not Hispanic
+6f0dc87b-dfab-24e2-af25-762cd34d09ae,42,2,White,Hispanic
+9ceeaf74-a3f2-a3db-9236-948e34ecb64f,40,2,"Black, or African American",Not Hispanic
+3082d7e6-e6ac-e778-d7b6-e0a34730b04b,43,1,White,Not Hispanic
+c2d031ad-1bc6-229e-42f1-9c7b91f29ea4,55,1,White,Not Hispanic
+63582706-d545-b254-09bc-6a803a887bed,35,2,White,Not Hispanic
+067ab1d7-7059-e387-b89f-52d2a8737d14,42,1,White,Not Hispanic
+1c82780f-0e84-c070-514b-30a9f6d4461c,47,1,"Black, or African American",Not Hispanic
+c31dfb91-397a-0433-db64-8ca71ea0dd2d,33,2,White,Not Hispanic
+af8422cc-484f-da28-62d4-7bffa510f7b4,27,2,White,Not Hispanic
+bb2168c4-a318-8a65-496f-e30824f7e239,54,2,White,Not Hispanic
+290a8303-e1c6-a7c2-41d8-93a5ffc7aba2,50,2,White,Not Hispanic
+75e8abfe-6af0-1106-e235-09a86bcfdfa4,26,2,"Black, or African American",Not Hispanic
+2213cdad-661d-3354-aa55-e9af537574b0,25,1,"Black, or African American",Not Hispanic
+e798d9bf-4ce1-ca16-73cb-3b3fa6f90864,27,1,White,Not Hispanic
+bd0c1656-de37-3877-3ee6-187277f4d7f9,62,2,White,Not Hispanic
+5b5073c7-e6dc-9c76-ee7a-e3bb50340715,37,2,White,Not Hispanic
+5eb63bc5-e2f1-0e16-15c3-3faefce176a1,40,2,White,Not Hispanic
+9fc08086-228b-a68a-2d5f-4dd311a2c64d,40,2,White,Not Hispanic
+4ad76a0d-5219-4d62-a25c-6c5cf629c955,68,2,White,Not Hispanic
+7859d906-e78f-980a-331b-c38a6173a99e,34,2,White,Not Hispanic
+60094db3-b265-293e-4531-4fd0ac01e53d,57,2,White,Not Hispanic
+a3fe085b-81b4-1b37-698b-4ff499ff70c6,39,2,White,Hispanic
+2ba95b90-9654-a5e4-3a65-860330b6857a,64,2,White,Not Hispanic
+68e438e0-5a57-5306-b0dc-80e80aee5a68,39,2,White,Not Hispanic
+45590d60-265f-d5c1-78e7-e190642bb07d,75,2,White,Not Hispanic
+7f5085e7-058c-dd44-32a0-2b53565a4a42,45,2,White,Not Hispanic
+9b58e20a-7c8d-8aef-30a0-4e0b3a4d1f57,34,2,White,Hispanic
+3fc4f4d0-d1d5-0a53-d035-dd193cad3401,28,2,White,Not Hispanic
+e6829d8f-9a43-fa95-7672-cdbe7dae4677,62,2,White,Not Hispanic
+63bb48b6-7311-71a7-1122-06a244190e59,26,2,White,Not Hispanic
+00c818ba-a210-dd25-392c-5f423f203c22,25,2,White,Hispanic
+ec78342e-f52d-82cc-302d-8d1fa555dfa1,26,2,White,Not Hispanic
+c69aa024-7706-4602-5e5e-a4cd1426512f,28,2,White,Not Hispanic
+9b465e04-b4cf-dcd7-32a1-c14d46a49f8d,58,2,White,Not Hispanic
+2449ea0f-5e6b-1e56-7a23-53358d759038,41,2,White,Not Hispanic
+6001e75d-b872-c503-d4f1-211050b57397,41,2,White,Hispanic
+2d914e29-6541-f574-52ea-13b8a575c5c7,30,2,White,Not Hispanic
+57f46801-69a2-e466-14c6-d16d569186b9,46,2,White,Not Hispanic
+06339f7f-8ec4-6aab-aefb-4b37a50ee5e7,29,2,"Black, or African American",Not Hispanic
+8257909d-5e3c-ff18-e1b3-9d6494e2a33d,33,2,White,Not Hispanic
+5fd229bc-8e67-3bc8-4401-6c6f480af459,46,2,White,Not Hispanic
+419b7333-9b8c-e31b-c111-61a7339b2275,31,2,"Black, or African American",Not Hispanic
+720f2288-0760-9502-739f-51c3490ec6f3,36,2,White,Not Hispanic
+4da9b236-d15f-4acd-97df-c472e2fba2a1,30,2,White,Not Hispanic
+f2612977-7fe5-4edd-34d3-87dd557c9198,39,2,White,Not Hispanic
+7ddee37d-ebba-ca66-2a4e-4d28c0fce144,38,2,White,Not Hispanic
+160a56e1-1cd2-7c9f-03ac-0d1b2cb15c02,25,2,White,Not Hispanic
+df9f1099-0b4b-a6c4-a672-5796feef341b,34,2,White,Prefer not to answer
+74cd4a41-5e07-2fb2-9919-be9116a26e58,47,2,White,Not Hispanic
+5f0bb32f-e6dd-bbe3-a89a-18fe5f8e74df,41,2,White,Not Hispanic
+777028e6-a53d-2350-5bd1-b61cecba63b3,27,2,"Black, or African American",Not Hispanic
+0af20a23-e3c6-0f79-2a0e-0060ae2a9c01,77,2,White,Not Hispanic
+d4fecf58-a1f8-75a4-8a4b-455957765dc6,31,2,White,Hispanic
+b5b25ed1-af1b-5316-3a0e-681bbd5db7a4,31,2,White,Not Hispanic
+f398d16e-18b9-f0a2-a364-42e58abe5779,31,2,White,Not Hispanic
+793daf5a-b35c-9601-417a-f0cb07f2422d,28,2,White,Hispanic
+c0bf3b37-623d-c905-cc3e-b36ddc75f4cc,33,2,White,Not Hispanic
+40d1ff56-0c78-9409-b96d-c079a75908f0,45,2,White,Not Hispanic
+060fc65e-9011-be99-9aee-c74ff2591fc7,40,2,White,Not Hispanic
+520b7950-dee4-254b-0afc-13fb6e8f19bc,34,2,White,Hispanic
+b1012b0f-174a-f825-564a-90627825e2f0,43,2,"Black, or African American",Not Hispanic
+3d4a49ae-e83f-6a2a-52fc-6f48e7e337c4,29,2,White,Not Hispanic
+474d3a1a-695a-a2da-ad14-e5bf848622e3,51,2,White,Hispanic
+413b48c4-ef22-9e93-cfde-a771305d9749,41,2,White,Not Hispanic
+ef4bd7a8-746b-302f-7ebb-f6dfed84acc9,35,2,White,Not Hispanic
+0f5449d1-910a-8ebf-a909-3889e42cfe33,25,2,White,Not Hispanic
+5a8258cb-8d78-3a9b-ed87-adb64448cbb9,25,2,"Black, or African American",Not Hispanic
+054da197-5273-d60c-57a0-3c178620a10a,53,2,White,Not Hispanic
+aeeb5608-b2ed-003d-d641-aee399d81764,33,2,White,Not Hispanic
+59259acd-4142-d00e-6ff6-fa9a16e6e8fc,25,2,"Black, or African American",Not Hispanic
+405db449-c06a-e817-67bb-18babfd4f67c,32,2,White,Hispanic
+d789c624-5e14-901b-fea5-9d94998c603a,46,2,White,Not Hispanic
+e3157b34-62f5-63b1-e8cd-ea8a7710199d,30,2,"Black, or African American",Not Hispanic
+95eb44d9-8459-f302-cd1d-036e0d08da99,45,2,White,Not Hispanic
+c6642ca9-10fa-62fc-a9b2-a838edac4484,45,2,White,Not Hispanic
+36ca9390-96a2-e79d-6576-d828f5517659,28,2,"Black, or African American",Hispanic
+4a9b0dc7-97e7-1b55-446f-c2131b87a428,70,2,White,Not Hispanic
+ff8bb891-1b90-8e3f-25ce-5ac51e22c6b2,43,2,White,Not Hispanic
+56516ab6-5f7e-7e7d-9d68-9315ccda78e2,22,2,"Black, or African American",Not Hispanic
+640445a1-87e7-099b-4600-8f33814671a1,35,1,White,Hispanic
+4a4a1b64-8c10-43d4-974a-25a0b81768f8,71,2,White,Not Hispanic
+296fc0d7-6a63-2a6b-41d0-d034abfbcc17,30,1,"Black, or African American",Not Hispanic
+c229a415-cb5f-8951-c534-f723c75694ac,26,1,White,Not Hispanic
+d5cf18c2-c418-8fea-801e-59011f16a10e,38,2,White,Not Hispanic
+9d47172c-ab01-f101-7b32-aadb1f41c851,61,2,White,Not Hispanic
+6eb1de50-c1ba-c834-caec-1d2d63a7bc90,70,1,White,Not Hispanic
+04621030-5afc-e6a6-9229-13f100f3e866,22,1,"Black, or African American",Not Hispanic
+22530aa4-15d1-52b0-76a6-b583dcac7b04,37,2,White,Hispanic
+47d9dd10-272d-6ace-ffd0-dce0612c3b0d,74,2,White,Not Hispanic
+5550f4ea-a86b-f8b5-17cc-b76c6b905645,23,1,White,Not Hispanic
+5e66d8fa-de69-c076-1f8c-edcdc91ceaae,61,1,White,Not Hispanic
+b8a35c0c-4486-6697-1c1d-73b3250a8bc0,28,2,White,Hispanic
+262b2cda-00dc-e949-8740-7d86fa3a4705,22,2,"Black, or African American",Not Hispanic
+c2cb0bc7-f032-9337-a10d-27dcbf153b90,21,1,"Black, or African American",Not Hispanic
+0577f0c3-925b-3545-a090-9a10fb0f79e5,19,2,"Black, or African American",Not Hispanic
+4cb22b3d-c2d6-f712-e152-9522c1afd792,32,2,White,Not Hispanic
+dfedf5fa-174d-65c0-ed60-18d977019d44,21,2,"Black, or African American",Not Hispanic
+2a257ecc-75fd-7d83-5264-43bac298823a,21,2,"Black, or African American",Not Hispanic
+15690641-07c4-d918-b91c-6d9dcf41c7ca,18,2,White,Not Hispanic
+a2fcab34-5868-ffda-60bd-c6623ee07bb3,58,1,White,Not Hispanic
+1f79260c-9020-dde2-60b2-55bf67ba189d,69,2,White,Not Hispanic
+8750be7b-d5bb-e3a4-40b8-7dc36444ea5b,23,1,"Black, or African American",Not Hispanic
+6e4ebe99-8740-0c48-d854-83efb9a893f3,62,1,White,Not Hispanic
+05c208e0-eb05-6b48-ea90-f6488155db84,56,1,White,Not Hispanic
+681a035f-e1e3-d66c-0a09-bdc139c8a117,18,1,Some other race,Hispanic
+c002c7fc-eb0a-97f7-1578-320ef4ca37a4,18,2,White,Not Hispanic
+e958c745-02bb-657d-0225-51d2e44e923a,18,2,Prefer not to answer,Prefer not to answer
+f0582911-0499-9aeb-d8b6-a5b0c7c22f1b,49,1,Some other race,Hispanic
+bfe9efdb-4a57-b541-4387-4957d4d61370,34,2,White,Not Hispanic
+4927db4a-4a12-d0d4-cda4-2f8510995969,65,1,White,Not Hispanic
+2cd4e76d-f40a-b6cf-31c7-8a33db5983d3,63,1,White,Not Hispanic
+3e7447a2-a672-d32f-5c9f-0999e869839a,54,2,White,Not Hispanic
+640324f0-99b3-51a6-6f2a-e2fd838edbe4,22,1,"Black, or African American",Not Hispanic
+4b045067-1481-b96b-477c-bc8ca5f604d7,65,1,White,Not Hispanic
+214990ed-abe0-7080-6961-a383dceea2eb,75,1,White,Not Hispanic
+33e1f2af-32cc-ea25-31fd-1e5ef86561ef,59,1,White,Not Hispanic
+02b964d6-76d9-6b12-1443-3a8eed5acddc,52,1,"Black, or African American",Not Hispanic
+0c975601-97b1-afbd-43bc-bd124e9dfdb6,56,1,White,Not Hispanic
+dd53abe1-2b2f-8082-f613-aed3b9da42b4,41,1,White,Not Hispanic
+7dd7e170-e0d0-807c-179e-e93ba3999919,23,1,"Black, or African American",Prefer not to answer
+731bd233-c011-c674-928a-77e53a99bbcb,36,2,White,Not Hispanic
+24c4e6ca-8a66-1d77-6049-315b00938d5e,46,2,White,Not Hispanic
+c6fc40c3-03cc-0a33-5db4-d496a8d89b3d,52,2,White,Not Hispanic
+c145419c-74eb-fa0d-f80a-ea0265dec4ed,62,2,White,Not Hispanic
+b81cc43b-f99a-3620-6ee2-f9bf8ad303b1,64,2,White,Not Hispanic
+9c454443-7eb1-a6f4-761e-b3acf92df31d,34,2,"Black, or African American",Not Hispanic
+d0b2b078-d393-6f3e-5a5f-838f23ee4016,69,1,White,Not Hispanic
+5da55873-5e85-f364-6426-f2e5b5eae220,47,1,White,Not Hispanic
+530a542a-8f05-f94e-d9a1-9ca8f3177bab,21,1,White,Not Hispanic
+c1886c58-5208-72d3-9c21-592004007c5d,69,1,White,Not Hispanic
+13131048-93b3-f363-d307-32958326c2dd,69,1,White,Not Hispanic
+2a314f1d-7bf7-bf91-9958-21e07b310f54,28,2,White,Not Hispanic
+9e8fa807-5db9-6490-2c6b-2108ba9b519a,68,2,White,Not Hispanic
+6207db63-74e5-e611-2d65-27a15a968960,65,1,White,Not Hispanic
+23625303-2ae7-2b5d-dcd2-dfd44c745676,30,1,White,Not Hispanic
+d7718c05-b671-f1b2-c9a0-a9ef513c5c4d,28,1,"Black, or African American",Not Hispanic
+a484be3e-2191-990c-3c86-1a6af55db8b9,68,1,White,Not Hispanic
+f68d6979-7fe4-c461-24e1-ed797d99e386,69,1,White,Not Hispanic
+e61c4368-72f1-f318-6c4e-77f738da98b0,41,1,White,Not Hispanic
+8503e3b7-1700-7953-e2ae-f5080213d090,68,2,Prefer not to answer,Prefer not to answer
+676e34be-78be-c228-c455-da792a4150de,34,2,White,Not Hispanic
+dad95c71-c688-599b-d111-277c82cc3039,20,1,Some other race,Hispanic
+7161c888-32c5-2d76-370e-bb11affee02e,62,1,Some other race,Hispanic
+9522496e-a7c8-09be-9082-140aed00e657,44,1,White,Not Hispanic
+da970edb-a841-588d-53b3-4dafcca5ac2e,20,1,White,Not Hispanic
+51f8deb6-3404-07f4-8a48-28afe4ff5eec,72,1,White,Not Hispanic
+444b9490-4edd-1cfd-f08f-ecf78e525adc,33,2,White,Not Hispanic
+be60808d-bcb3-9076-7688-f76ea504ee5a,33,2,Some other race,Hispanic
+922fe35d-2fd1-c775-00b0-2a827054ef5f,28,1,White,Not Hispanic
+d048c8af-ff5f-274a-ca53-76abc027c505,76,1,White,Not Hispanic
+0e832587-315e-b39f-82e9-dd36bc23db22,32,1,White,Not Hispanic
+ec8a7209-afd1-3425-dde2-134c1e3a7063,32,1,"Black, or African American",Not Hispanic
+ec0389c1-23ff-18b2-865a-5dcda016d50a,40,1,White,Not Hispanic
+bc6965e7-bdfb-0e2f-cf7a-9bd510e68719,75,1,White,Not Hispanic
+91a17855-aabd-4589-b736-5e1b36f1374d,28,1,White,Not Hispanic
+e7b4638b-e871-690e-5cf9-cefa9dbb2aeb,27,1,White,Not Hispanic
+350c559f-09ea-3c35-1f65-206e83a17fac,33,2,White,Not Hispanic
+f431f8f1-87db-9211-f84f-e7ef5c726f34,47,1,White,Not Hispanic
+e9f746e7-1fd3-a8d0-77a4-d097aaa22344,59,1,White,Not Hispanic
+92fcbafc-4501-a390-b249-c3c8a18e1a64,28,2,White,Not Hispanic
+7f353843-d25b-b219-9912-28bed483764a,73,2,White,Not Hispanic
+7e29bddc-fd5c-d74e-8778-dbe69b29f76e,38,2,White,Not Hispanic
+922e3abc-7ada-31a6-7c2a-5ca20c921749,41,2,White,Not Hispanic
+d980a784-1857-08fa-426e-08b6a0b58a0c,43,1,White,Hispanic
+121374ec-d9f5-6388-d202-5cd5d0b8bcbb,56,1,White,Not Hispanic
+2a545726-ca9d-569a-4539-fd8297266ab2,71,1,White,Not Hispanic
+8f47c5ae-6c68-d37a-aba0-24bd99932899,49,1,White,Not Hispanic
+769eb31c-2683-0a4c-8133-25f1e76032c3,49,1,White,Not Hispanic
+7e8e148b-0b44-f907-6d59-ae125ac7b94d,25,1,White,Not Hispanic
+840aa19c-c5bb-ff64-10b9-b399bf5d96d6,49,1,White,Not Hispanic
+98343ead-4239-a13e-b33f-f435207479d2,36,1,White,Hispanic
+43d8c607-f27a-b635-6064-62aea0683570,43,1,"Black, or African American",Hispanic
+81b89c44-ee28-c856-4fc6-0d4370ba8e9c,33,1,White,Not Hispanic
+65173bc6-ceb8-9364-8e24-2b1dc5736b1c,34,2,White,Not Hispanic
+a7f3cf5c-9818-13c7-0657-894f0c953522,48,2,White,Not Hispanic
+46230245-dd7c-b15a-aeb2-51526002ed7b,36,2,White,Hispanic
+716ebe56-c19a-ab0f-7d72-8f735d3b64ac,59,2,White,Not Hispanic
+f3f73d69-c853-05f9-735b-ea93923ad413,21,2,White,Hispanic
+81a4dce0-c800-9f5e-3139-c12d3881efd7,29,2,White,Not Hispanic
+217c82b1-c884-fac6-619a-4805e03a0ab6,21,2,White,Hispanic
+73b171e5-cc56-4dff-c314-d41cf699734e,62,2,White,Not Hispanic
+071a8d53-63e0-7207-113c-b0099cff77c5,23,2,White,Hispanic
+da0eb3c3-f8f0-01ae-e924-e01a5f5cc473,21,2,White,Not Hispanic
+ee550e96-037c-9932-e5b3-2f0bc91ca763,42,2,White,Not Hispanic
+cae322c3-6896-a57b-b7e1-1681fe84f0fe,36,2,White,Not Hispanic
+34cec306-c39f-cfb3-65ec-c39cc6079cb1,41,2,White,Not Hispanic
+0db1565d-6d70-799e-430b-105742fbacf1,21,1,Prefer not to answer,Prefer not to answer
+b03d3665-5c93-e629-e106-ae3288fb044a,25,1,White,Not Hispanic
+3b8879a2-6078-ba69-40f8-95ff23352f7f,36,2,White,Not Hispanic
+00e5ebaf-2eb0-6b1e-ea7e-ee0b677ebe4d,64,1,Prefer not to answer,Not Hispanic
+63d2b7c6-ab1f-0327-e59a-5f4ef8f218d0,68,1,Prefer not to answer,Prefer not to answer
+60bf684e-240d-383a-8dd0-64e34b50c34d,71,1,White,Not Hispanic
+3834e80b-6638-6c22-a1d2-80a21038f8e4,25,2,White,Not Hispanic
+9c6c3c4e-8f5b-8149-eb67-212a29b76b37,32,1,White,Not Hispanic
+84471dfa-d11b-946b-e993-f6e9f2007b99,24,2,White,Not Hispanic
+8ad09042-ef18-0725-f10c-88c063b55bfb,22,2,White,Not Hispanic
+f1668e89-59f7-771a-c94b-08d20f1536da,44,1,White,Not Hispanic
+ae344b14-505c-6986-97f9-580e6e20cc72,73,1,White,Not Hispanic
+a9fb1b54-8fbd-2cfd-c651-a34f5a0f3cdb,42,1,White,Not Hispanic
+e1b3b9d1-f887-ac21-369d-2be14bf91d08,78,2,White,Not Hispanic
+38124f7f-8c46-b173-9699-e962319a009f,64,1,White,Not Hispanic
+f0c46591-b2d9-95fa-449e-e02aeea28810,39,2,White,Not Hispanic
+ff8abfc0-2d58-293a-aebe-15241549d4d7,60,2,White,Not Hispanic
+e810c030-2edf-2b1a-ee35-5704b82f76ef,29,1,White,Prefer not to answer
+d5b26840-f4b3-593f-0b38-2c494853338d,76,1,White,Not Hispanic
+02d4729d-d414-cafe-5912-853ea204a093,72,2,White,Not Hispanic
+0be08870-ad40-9867-d6c4-222e6bf82001,26,1,White,Not Hispanic
+55a28f90-ada7-93f0-e579-77ec48164644,27,2,"Black, or African American",Hispanic
+bca88911-97ea-502c-2bc6-206b16754427,63,2,White,Not Hispanic
+b1b8106d-e27e-9a13-022b-2e42cc1e713d,26,2,White,Prefer not to answer
+2b125551-f51a-797b-b34e-fd5b6e737276,18,2,White,Prefer not to answer
+182ebfd2-90c7-73ba-5db4-eef0afb79cd8,42,2,White,Not Hispanic
+76b851e9-bfe7-66da-91a8-5948501d5146,59,1,White,Not Hispanic
+2c20fb0e-e632-ef0a-7ac6-885994f6614e,20,2,White,Not Hispanic
+fed46e35-1891-c896-a848-849e0dacf645,47,1,White,Hispanic
+b8ee0ec6-2b0a-0050-235a-a8e9838fd802,59,1,White,Not Hispanic
+36b86a13-8d1b-6ecb-2d79-4edf0dd14338,43,1,White,Not Hispanic
+e604d38c-0a9b-1471-31a7-9435b7c52ba7,48,1,White,Not Hispanic
+950097ce-28bc-2d51-f1e4-53e6dc50522d,20,1,"Black, or African American",Not Hispanic
+5caf5c6a-64ca-98e8-cdde-dccc831bef03,34,2,White,Not Hispanic
+9ac1b7f0-a5b0-6be6-4d63-96fe022f6ca5,33,2,White,Not Hispanic
+3eda9150-3993-e371-3c60-ae1c8818d277,76,1,White,Not Hispanic
+62fc194b-649d-72ad-4556-b8a2db747f33,26,1,White,Not Hispanic
+3d56400b-22ff-5a30-46b3-fcbffb18291f,60,1,White,Not Hispanic
+bdf1de53-e014-73df-5768-6c78cbf01dcb,70,1,White,Not Hispanic
+84e69ef9-a629-ebb2-5352-e5785e13ab9c,39,2,White,Not Hispanic
+935b67b4-2fbd-9d23-a516-8cda99d6bf85,20,2,White,Hispanic
+6c589836-3a04-e4d7-2113-6ce039ba7d2f,32,1,White,Not Hispanic
+1feb1cf5-7dcb-e113-039f-f46b194274cf,20,1,White,Hispanic
+421e0683-dc0a-1c8e-88bc-e600431b800a,28,1,Some other race,Not Hispanic
+3347216c-7a7d-6d78-670c-ada1c783870a,29,1,White,Not Hispanic
+1b2b5f8b-a27e-5970-0452-ba518223c495,36,1,White,Not Hispanic
+d0d0d99d-b7a4-9237-277f-172590ea31de,18,2,White,Not Hispanic
+3aa74acf-50b4-927c-ab43-bd837c4e1b98,18,1,Asian,Not Hispanic
+97477da7-3626-2c14-fc19-9ebc97a92b57,28,1,"Black, or African American",Not Hispanic
+2b31b5e7-40ed-4d57-04a6-24f3231830a3,23,2,"Black, or African American",Not Hispanic
+6d2616e2-2a3b-b73f-12fe-55f53732d5fe,39,1,White,Not Hispanic
+3b38102b-7bdf-1546-e4a8-844f7d94a6ce,26,1,"Black, or African American",Not Hispanic
+250d235f-1feb-a1e7-3bb1-591b2e832bbe,21,1,White,Not Hispanic
+060556e8-d798-1e8b-5a1a-e46111ba91f9,29,1,White,Not Hispanic
+4f3c0388-ec61-23eb-733c-4dee97d47986,41,2,"Black, or African American",Not Hispanic
+54a3e5ae-db9f-658f-41c6-444b08a575c4,45,1,White,Not Hispanic
+90c031a8-a28e-aff6-e1fa-b7e41c230f19,18,2,Asian,Hispanic
+a84f3d75-69f8-76b9-481d-07d0ec2fb9e6,38,2,Asian,Not Hispanic
+1f0e523d-9cab-2954-4e2b-952ee58d55cb,21,1,White,Hispanic
+c252714e-869c-6fdd-0465-a8d7438806fe,26,1,White,Not Hispanic
+b31985d0-a84a-3aee-d636-a89dad0fc0f7,57,2,"Black, or African American",Not Hispanic
+9523175b-c0d5-dc17-61a5-564247d41385,21,2,"Black, or African American",Not Hispanic
+5636d3b7-c069-47d3-72cd-fdd02e616bd7,35,1,White,Not Hispanic
+f5260cb1-29bd-44d4-b7bb-24ab7447b052,46,1,White,Not Hispanic
+753840d9-87ea-19f2-1e85-95360c11c74d,46,2,White,Not Hispanic
+f8bc60bb-9677-3d4c-1a83-7f9e5a3ede12,21,1,White,Hispanic
+aee0ba17-9d25-4068-5fca-fb85dc34d926,33,1,"Black, or African American",Not Hispanic
+b9a1f8c5-929c-c513-5e6f-46b9a77465af,21,1,White,Hispanic
+97affdcd-26a1-ff29-285c-ecb9ed6d216d,33,1,White,Not Hispanic
+1374975f-6081-f8de-6e74-745d0af15cc2,18,1,White,Hispanic
+8988266f-8e67-d7d8-431b-dc7053a3b34e,27,2,White,Not Hispanic
+317ca102-1339-ff4a-2dd5-f00525139dd0,48,2,White,Not Hispanic
+18ab202b-df7a-d7b0-3044-f29765623354,53,1,"Black, or African American",Not Hispanic
+b069acba-8d9b-4935-5af3-80a4ef70f8b6,23,2,"Black, or African American",Not Hispanic
+7bd0a126-d086-d4d6-36e8-d3bd342f4b08,60,1,White,Not Hispanic
+bc7d0e39-c3a6-23ce-f019-eca2b54fae0b,20,1,White,Hispanic
+0b1f7526-a690-83d0-1850-147b62b97bbf,44,1,White,Not Hispanic
+ef30681c-e61b-4afc-a282-84df019b2b5d,37,1,White,Not Hispanic
+db36840c-19b7-2aaa-85cc-2c2d89c93243,18,1,White,Not Hispanic
+5a332b7d-1c54-cdb8-b1dd-fdbb80cf9dc7,52,2,White,Hispanic
+bc033a02-2d9e-3145-7f5a-c17aa926550e,49,1,White,Not Hispanic
+72be5fb8-52dc-383c-236b-f12c181d8b09,18,1,"Black, or African American",Not Hispanic
+39385322-537e-95ed-57ea-efa6299a19fb,47,1,White,Not Hispanic
+751095ed-9864-dc1a-c827-1dd98da18439,38,2,White,Not Hispanic
+4d617ffb-d8d3-ac89-810a-9f84cd4ebc4b,24,2,White,Prefer not to answer
+3e16918f-7648-78d7-6934-3f601ccfb86d,29,2,White,Not Hispanic
+95935df6-c6c2-86af-4aff-e799617d7629,54,1,"Black, or African American",Not Hispanic
+9adc8fe3-cad6-7b77-0287-413950e7ceb8,21,2,"Black, or African American",Not Hispanic
+d5647056-88de-4047-4543-646b2ddc3792,32,2,White,Not Hispanic
+8d129c6c-8a75-9c6e-d096-f682aab09b08,50,1,White,Hispanic
+bca50ac2-9852-3535-9e6d-3d623ca97d02,37,1,White,Not Hispanic
+8da72e1a-1b21-eb27-feae-0fb8be56db4c,37,1,White,Not Hispanic
+5b1bab8d-98b0-4e7a-c74f-555dde9389de,23,1,"Black, or African American",Not Hispanic
+e9faa206-7ad7-9ad5-c2dc-09c180ade83c,31,1,White,Not Hispanic
+a5c3a0a9-a29c-9dbe-ee8f-0a8837280c98,19,1,White,Not Hispanic
+cb0a7314-7088-1b5b-4b7e-40bda8efa221,31,1,White,Not Hispanic
+ede652f5-1167-c1d8-de71-a4acee367214,32,2,"Black, or African American",Not Hispanic
+523c0ed4-acd3-cc0b-b65d-95c2522c12e1,50,1,White,Not Hispanic
+9d6d37c7-5e45-32ec-7d3f-b84a53e39b1a,49,1,White,Not Hispanic
+44ed3d94-4ea8-599e-7440-6c5f72bfa693,35,1,White,Not Hispanic
+c5ba8420-5b4b-9466-36fe-b3a6a37d299e,43,1,White,Not Hispanic
+6bd95a4f-37bf-fcbd-87a4-53041ff3a9f8,25,1,"Black, or African American",Not Hispanic
+b106c45a-71f6-aee9-1f4a-47062e795ba5,37,1,White,Not Hispanic
+d4ec675d-53a3-939e-6899-98d64e444af9,61,1,White,Not Hispanic
+166e6aeb-7f1e-d1ea-61ab-0704de8e2646,26,2,White,Not Hispanic
+0c586c0a-1cb6-e17b-0974-52d8b082a958,50,1,White,Not Hispanic
+15c18944-b44b-2731-185f-014a29e9efa2,18,1,White,Not Hispanic
+a9dfcc0c-68db-76b3-982d-f0788a51451c,18,1,White,Not Hispanic
+9bc27450-a3a9-0472-3002-0f5e8a5acb4d,64,1,White,Not Hispanic
+433fca8a-f72a-1b7a-ea78-b0884c9b9009,23,1,White,Not Hispanic
+202a9ced-885a-fb35-db8e-e298f561f4c3,28,1,White,Not Hispanic
+0f9d7819-53e6-c977-488d-5d8d0aef77ed,32,2,"Black, or African American",Not Hispanic
+36514258-4ca1-5720-22b8-952ee11b1719,28,1,"Black, or African American",Not Hispanic
+66849b64-34e2-b1b8-7606-9f22b6f23b07,25,1,White,Not Hispanic
+87eb0127-c979-ff8f-cb8a-051ab27913d5,48,1,White,Not Hispanic
+c1ed3940-610d-a84a-34a4-ed3c7f0643ea,48,2,"Black, or African American",Not Hispanic
+dfb2591d-f9b5-a1db-525e-acaf8b67cdcd,36,1,White,Not Hispanic
+916efd7b-7cc2-89b7-95b4-59923d49e4f8,34,1,White,Not Hispanic
+a28322e8-d171-504f-df48-00048910d70e,40,1,White,Not Hispanic
+00501cd8-8bff-35b3-8f6a-5979ab55db54,32,1,White,Hispanic
+3adbd2b2-943a-1af1-c146-3a0a8763edcb,37,1,White,Not Hispanic
+b1f6d38e-4297-bb04-66f2-1e777ecbca9c,28,1,White,Not Hispanic
+c1204784-51e5-0918-df04-ea9f4505f98e,31,1,White,Not Hispanic
+f12c2046-1cdb-06cb-e9c3-d3719f688611,25,1,White,Not Hispanic
+79cdc59e-7700-2b66-56c6-5adb028dd025,30,2,White,Not Hispanic
+76237f14-9d86-a7ff-3758-16cf761df97f,60,2,White,Not Hispanic
+63cd0cb1-a7b3-b6f9-1358-96aae2751ce6,32,2,White,Not Hispanic
+e220134e-7976-3bb0-d7b2-abd8cc3effe9,35,1,White,Not Hispanic
+bb859153-4918-df40-b3ff-962ec1e81da9,29,2,White,Not Hispanic
+d2242ae5-7035-dec5-3b10-8cbabfcbaa55,49,1,White,Not Hispanic
+16ac92bb-f9f6-c49c-8eb7-ae33a848096e,38,2,White,Not Hispanic
+9cb84018-1c79-8fe1-97ff-96423d40f9b0,25,1,White,Not Hispanic
+05e71b68-0cf8-32b3-0a66-c2113eb4a3ee,38,1,White,Not Hispanic
+a2cbc85c-3069-ae7c-04a6-dca6f908017b,25,1,White,Not Hispanic
+471994c9-3d3a-79ab-c33c-518f52eddbdb,27,1,White,Not Hispanic
+93231668-f185-ea7c-6004-0d0d5257c31b,37,1,"Black, or African American",Not Hispanic
+710dcbb7-6e93-c789-6788-32d0dcfca748,33,1,White,Not Hispanic
+49fafbef-c45d-e840-ec25-30fa98b1d51e,32,1,White,Not Hispanic
+ee38a9e9-f377-071a-28e6-a63b4fc34028,63,1,White,Not Hispanic
+1652142c-4b6e-c9d5-0227-e56b04741ebc,32,1,White,Not Hispanic
+e849c066-bee2-1b33-e104-bf7ab9312771,33,2,White,Not Hispanic
+0784781d-2006-1fdb-16ee-251359d12415,27,1,"Black, or African American",Not Hispanic
+19ffa018-c1c1-ba4f-515e-a371f0b10781,29,1,White,Not Hispanic
+00f899de-fca3-39e8-73fb-f31264ecfbeb,36,2,"Black, or African American",Not Hispanic
+ef58b690-632e-67ff-cf2a-5746b41ea125,44,1,White,Not Hispanic
+82b91686-7126-c537-8bb8-14ccda3069f5,31,2,White,Not Hispanic
+ca44724a-4502-0c28-d824-a59edb33ce63,39,2,"Black, or African American",Not Hispanic
+35a02595-cfcb-3ed7-4599-9d7edd354aa4,32,2,White,Not Hispanic
+9cca1eda-b5d3-6eb6-abab-2bc719e012e5,43,1,White,Not Hispanic
+9635dc67-ad5a-e575-565d-6ed039b05c64,35,1,White,Not Hispanic
+7f12e3cd-b09a-96e3-c00d-ec5e1b6046ee,25,1,White,Not Hispanic
+b8c52ae1-0d09-a714-fd99-8da8c0524da3,35,1,White,Not Hispanic
+2a67f030-87b5-3b85-5673-51cb39347843,25,1,White,Not Hispanic
+33eadf2f-e4cd-46e1-2139-298b2795bf89,33,1,White,Not Hispanic
+b26d6078-5d5b-7adb-ee77-f590ea1581f6,49,1,White,Not Hispanic
+4d2a5ec7-029d-b4a0-0609-ac3b386b8594,45,1,White,Not Hispanic
+13189bf2-cf3a-b554-cf32-cd1499c69fcf,65,1,White,Not Hispanic
+6086ce8d-123e-a2fb-e95e-17415e48f8b3,75,1,White,Not Hispanic
+4baec9a5-274c-51a1-04d4-0f6a622361ee,45,1,White,Not Hispanic
+0963c291-242f-478f-77f3-cc6c766b6138,55,1,White,Not Hispanic
+1f5c5c10-76be-9057-8002-a34fd3b060d8,58,2,White,Not Hispanic
+12a94f75-d243-3439-4be7-df76713a9af7,60,1,White,Not Hispanic
+72007655-02a2-13b0-22d7-e45d402c04cb,51,1,White,Not Hispanic
+ebbc9e9a-f786-7063-8c69-d4b8ba045dfb,47,1,White,Hispanic
+018af2d2-427c-3d5f-3c3d-bcd8c7050c5b,72,1,White,Hispanic
+33342b79-7969-748f-2510-f963c5a1faa6,45,1,White,Not Hispanic
+feb1e270-69c8-0b17-bf33-5ada2e20766f,48,2,White,Not Hispanic
+ba80c88b-9da3-e777-598c-1a48e187ab6d,51,2,White,Not Hispanic
